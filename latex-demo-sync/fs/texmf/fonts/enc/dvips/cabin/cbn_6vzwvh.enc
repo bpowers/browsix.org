@@ -1,0 +1,69 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_6vzwvhc6u2um752w3ih2uvy7th
+% Encoding created by otftotfm on Sat Nov 17 12:00:16 2012
+% Command line follows encoding
+/AutoEnc_6vzwvhc6u2um752w3ih2uvy7th [
+%00
+  /grave /acute /circumflex /tilde /dieresis /.notdef /ring /caron
+  /.notdef /.notdef /.notdef /cedilla /.notdef /quotesinglbase /guilsinglleft /guilsinglright
+%10
+  /quotedblleft /quotedblright /quotedblbase /guillemotleft /guillemotright /endash /emdash /.notdef
+  /.notdef /dotlessi /uni0237 /.notdef /.notdef /.notdef /.notdef /.notdef
+%20
+  /.notdef /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero /one /two /three /four /five /six /seven
+  /eight /nine /colon /semicolon /less /equal /greater /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore
+%60
+  /quoteleft /A.sc /B.sc /C.sc /D.sc /E.sc /F.sc /G.sc
+  /H.sc /I.sc /J.sc /K.sc /L.sc /M.sc /N.sc /O.sc
+%70
+  /P.sc /Q.sc /R.sc /S.sc /T.sc /U.sc /V.sc /W.sc
+  /X.sc /Y.sc /Z.sc /braceleft /bar /braceright /asciitilde /hyphen
+%80
+  /.notdef /.notdef /.notdef /Ccaron /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /Scaron /.notdef /.notdef /.notdef /.notdef /.notdef
+  /Ydieresis /.notdef /Zcaron /.notdef /.notdef /.notdef /.notdef /section
+%A0
+  /.notdef /.notdef /.notdef /ccaron /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /scaron /.notdef /.notdef /.notdef /.notdef /.notdef
+  /ydieresis /.notdef /zcaron /.notdef /.notdef /exclamdown /questiondown /sterling
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /OE
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /.notdef
+%E0
+  /agrave /aacute /acircumflex /atilde /adieresis /aring /AE.sc /ccedilla
+  /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+%F0
+  /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /OE.sc
+  /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_t1
+% --tfm-directory=texmf/fonts/tfm/impallari/cabin
+% --vf-directory=texmf/fonts/vf/impallari/cabin
+% --pl-directory=texmf/fonts/pl/impallari/cabin
+% --vpl-directory=texmf/fonts/vpl/impallari/cabin
+% --type1-directory=texmf/fonts/type1/impallari/cabin
+% --truetype-directory=texmf/fonts/truetype/impallari/cabin
+% --type42-directory=texmf/fonts/type42/impallari/cabin
+% --encoding-directory=texmf/fonts/enc/dvips/impallari
+% --map-file=texmf/fonts/map/dvips/impallari/CabinCondensed.map --no-updmap
+% --coding-scheme=EXTENDED TEX FONT ENCODING - LATIN --feature=kern
+% --feature=smcp --ligkern=f i =: fi --ligkern=f l =: fl --ligkern=f f =: ff
+% --ligkern=ff i =: ffi --ligkern=ff l =: ffl --unicoding=germandbls =:
+% SSsmall CabinCondensed-BoldItalic.otf CabinCondensed-BoldItalic-tlf-sc-t1'

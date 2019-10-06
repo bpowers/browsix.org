@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_55vlpjjctmpdnlfx74udhgiyde
+% Encoding created by otftotfm on Thu May 26 17:44:31 2016
+% Command line follows encoding
+/AutoEnc_55vlpjjctmpdnlfx74udhgiyde [
+%00
+  /.notdef /Euro /.notdef /.notdef /fraction /dotaccent /hungarumlaut /ogonek
+  /.notdef /.notdef /afii61664 /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /uni0237 /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft.superior /parenright.superior /asterisk /plus /comma.superior /hyphen /period.superior /slash
+%30
+  /zero.superior /one.superior /two.superior /three.superior /four.superior /five.superior /six.superior /seven.superior
+  /eight.superior /nine.superior /colon /semicolon /less /equal /greater /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft.superior /backslash /bracketright.superior /circumflex /underscore
+%60
+  /quoteleft /uniF6E9 /uniF6EA /uniE049 /uniF6EB /uniF6EC /uniE04E /uniE04C
+  /uniE048 /uniF6ED /uniE04A /uniE04B /uniF6EE /uniF6EF /uni207F /uniF6F0
+%70
+  /uniE052 /uniE053 /uniF6F1 /uniF6F2 /uniF6F3 /uniE050 /uniE054 /uniE055
+  /uniE056 /uniE057 /uniE058 /braceleft /bar /braceright /tilde /dieresis
+%80
+  /Lslash /quotesingle /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl
+  /circumflex /perthousand /Scaron /guilsinglleft /OE /Zcaron /asciicircum /minus
+%90
+  /lslash /quoteleft /quoteright /quotedblleft /quotedblright /bullet /endash /emdash
+  /tilde /trademark /scaron /guilsinglright /oe /zcaron /asciitilde /Ydieresis
+%A0
+  /uni00A0 /exclamdown /cent /sterling /currency /yen /brokenbar /section
+  /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /uni00AD /registered /macron
+%B0
+  /degree /plusminus /two.superior /three.superior /acute /uni00B5 /paragraph /periodcentered
+  /cedilla /one.superior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls
+%E0
+  /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla
+  /egrave.superior /eacute.superior /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+%F0
+  /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide
+  /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ly1
+% --tfm-directory=/Users/msharpe/Library/texlive/2016/texmf-config/fonts/tfm/public/erewhon
+% --vf-directory=/Users/msharpe/Library/texlive/2016/texmf-config/fonts/vf/public/erewhon
+% --type1-directory=/Users/msharpe/Library/texlive/2016/texmf-config/fonts/type1/public/erewhon
+% --truetype-directory=/Users/msharpe/Library/texlive/2016/texmf-config/fonts/truetype/public/erewhon
+% --encoding-directory=/Users/msharpe/Library/texlive/2016/texmf-config/fonts/enc/dvips/erewhon
+% --map-file=/Users/msharpe/Library/texlive/2016/texmf-config/fonts/map/dvips/erewhon/erewhon.map
+% --no-updmap --coding-scheme=TEX TYPEWRITER AND WINDOWS ANSI --feature=kern
+% --feature=liga --feature=sups --ligkern=* {KL} * Erewhon-Regular.otf
+% Erewhon-Regular-sup-ly1'

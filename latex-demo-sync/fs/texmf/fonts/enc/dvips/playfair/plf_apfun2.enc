@@ -1,0 +1,66 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_apfun2r2v2c6stfdqxnc4dtqac
+% Encoding created by otftotfm on Fri May 23 08:02:34 2014
+% Command line follows encoding
+/AutoEnc_apfun2r2v2c6stfdqxnc4dtqac [
+%00
+  /.notdef /Euro.smcp /.notdef /.notdef /fraction /dotaccent.smcp /hungarumlaut.smcp /ogonek.smcp
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /dotlessj /grave.smcp /acute.smcp /caron.smcp /breve.smcp /macron.smcp /ring.smcp
+  /cedilla.smcp /.notdef /ae.smcp /oe.smcp /oslash.smcp /AE /OE /Oslash
+%20
+  /space /exclam.smcp /quotedbl /numbersign /dollar.smcp /percent /ampersand.smcp /quoteright
+  /parenleft.smcp /parenright.smcp /asterisk /plus /comma /hyphen.smcp /period /slash
+%30
+  /zero /one /two /three /four /five /six /seven
+  /eight /nine /colon /semicolon /less /equal /greater /question.smcp
+%40
+  /at.smcp /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft.smcp /backslash /bracketright.smcp /circumflex.smcp /underscore
+%60
+  /quoteleft /a.smcp /b.smcp /c.smcp /d.smcp /e.smcp /f.smcp /g.smcp
+  /h.smcp /i.smcp /j.smcp /k.smcp /l.smcp /m.smcp /n.smcp /o.smcp
+%70
+  /p.smcp /q.smcp /r.smcp /s.smcp /t.smcp /u.smcp /v.smcp /w.smcp
+  /x.smcp /y.smcp /z.smcp /braceleft.smcp /bar /braceright.smcp /tilde.smcp /dieresis.smcp
+%80
+  /Lslash /quotesingle /quotesinglbase /florin.smcp /quotedblbase /ellipsis /dagger /daggerdbl
+  /circumflex.smcp /perthousand /Scaron /guilsinglleft.smcp /OE /Zcaron /asciicircum.smcp /minus
+%90
+  /lslash.smcp /quoteleft /quoteright /quotedblleft /quotedblright /bullet.smcp /endash.smcp /emdash.smcp
+  /tilde.smcp /trademark /scaron.smcp /guilsinglright.smcp /oe.smcp /zcaron.smcp /asciitilde.smcp /Ydieresis
+%A0
+  /uni00A0 /exclamdown.smcp /cent.smcp /sterling.smcp /currency.smcp /yen.smcp /brokenbar /section.smcp
+  /dieresis.smcp /copyright /ordfeminine /guillemotleft.smcp /logicalnot /softhyphen /registered /macron.smcp
+%B0
+  /degree /plusminus /twosuperior /threesuperior /acute.smcp /mu /paragraph.smcp /periodcentered.smcp
+  /cedilla.smcp /onesuperior /ordmasculine /guillemotright.smcp /onequarter /onehalf /threequarters /questiondown.smcp
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /.notdef
+%E0
+  /agrave.smcp /aacute.smcp /acircumflex.smcp /atilde.smcp /adieresis.smcp /aring.smcp /ae.smcp /ccedilla.smcp
+  /egrave.smcp /eacute.smcp /ecircumflex.smcp /edieresis.smcp /igrave.smcp /iacute.smcp /icircumflex.smcp /idieresis.smcp
+%F0
+  /eth.smcp /ntilde.smcp /ograve.smcp /oacute.smcp /ocircumflex.smcp /otilde.smcp /odieresis.smcp /divide
+  /oslash.smcp /ugrave.smcp /uacute.smcp /ucircumflex.smcp /udieresis.smcp /yacute.smcp /thorn.smcp /ydieresis.smcp
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ly1
+% --tfm-directory=texmf/fonts/tfm/public/playfair
+% --vf-directory=texmf/fonts/vf/public/playfair
+% --type1-directory=texmf/fonts/type1/public/playfair
+% --truetype-directory=texmf/fonts/truetype/public/playfair
+% --encoding-directory=texmf/fonts/enc/dvips/playfair
+% --map-file=texmf/fonts/map/dvips/playfair/PlayfairDisplay.map --no-updmap
+% --coding-scheme=TEX TYPEWRITER AND WINDOWS ANSI --feature=kern
+% --feature=liga --feature=onum --feature=smcp --unicoding=germandbls =:
+% SSsmall PlayfairDisplay-BlackItalic.otf
+% PlayfairDisplay-BlackItalic-osf-sc-ly1'

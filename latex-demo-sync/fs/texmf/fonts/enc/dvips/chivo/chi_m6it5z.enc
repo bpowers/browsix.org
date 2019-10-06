@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_m6it5zavcfpq4e2clmfb2nsa7e
+% Encoding created by otftotfm on Thu May 05 20:56:50 2016
+% Command line follows encoding
+/AutoEnc_m6it5zavcfpq4e2clmfb2nsa7e [
+%00
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /cedilla /ogonek /quotesinglbase /C /asterisk
+%10
+  /exclam /exclamdown /quotedblbase /question /questiondown /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /bar /.notdef
+%20
+  /.notdef /endash /.notdef /.notdef /dollar /.notdef /.notdef /quotesingle
+  /.notdef /.notdef /.notdef /.notdef /comma /.notdef /period /fraction
+%30
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /minus /.notdef /.notdef
+%40
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%50
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /uni2126
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%60
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%70
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%80
+  /.notdef /.notdef /.notdef /.notdef /dagger /daggerdbl /.notdef /perthousand
+  /bullet /.notdef /.notdef /.notdef /florin /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /trademark
+  /.notdef /.notdef /.notdef /.notdef /.notdef /estimated /.notdef /.notdef
+%A0
+  /.notdef /.notdef /cent /sterling /currency /yen /brokenbar /section
+  /.notdef /copyright /ordfeminine /.notdef /logicalnot /.notdef /registered /.notdef
+%B0
+  /degree /plusminus /uni00B2 /uni00B3 /.notdef /uni00B5 /paragraph /periodcentered
+  /.notdef /uni00B9 /ordmasculine /radical /onequarter /onehalf /threequarters /Euro
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /multiply /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /divide /.notdef
+  /.notdef /.notdef /.notdef /uniFB02 /l /uniFB01 /i /f
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ts1
+% --tfm-directory=fonts/tfm/lcdftools/Chivo
+% --vf-directory=fonts/vf/lcdftools/Chivo
+% --type1-directory=fonts/type1/lcdftools/Chivo
+% --truetype-directory=fonts/truetype/lcdftools/Chivo
+% --encoding-directory=fonts/enc/dvips/Chivo
+% --map-file=fonts/map/dvips/Chivo/Chivo.map
+% --no-updmap --coding-scheme=TEX TEXT COMPANION SYMBOLS 1---TS1 --ligkern=f
+% i =: fi --ligkern=f l =: fl --ligkern=f f =: ff --ligkern=ff i =: ffi
+% --ligkern=ff l =: ffl Chivo-Black.otf Chivo-Black-tlf-ts1'

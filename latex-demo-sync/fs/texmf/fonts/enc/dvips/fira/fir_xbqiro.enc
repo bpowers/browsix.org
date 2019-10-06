@@ -1,0 +1,66 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_xbqiroa3xwawd542xjv5bejo3c
+% Encoding created by otftotfm on Sat May 23 22:18:20 2015
+% Command line follows encoding
+/AutoEnc_xbqiroa3xwawd542xjv5bejo3c [
+%00
+  /grave /acute /circumflex /tilde /dieresis /hungarumlaut /ring /caron
+  /breve /macron /dotaccent /cedilla /ogonek /quotesinglbase /guilsinglleft /guilsinglright
+%10
+  /quotedblleft /quotedblright /quotedblbase /guillemotleft /guillemotright /endash /emdash /.notdef
+  /.notdef /dotlessi /uni0237 /.notdef /.notdef /.notdef /fl /fi
+%20
+  /.notdef /exclam /quotedbl /numbersign.tosf /dollar.tosf /percent.tosf /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus.tosf /comma /hyphen /period /slash
+%30
+  /zero.tosf /one.tosf /two.tosf /three.tosf /four.tosf /five.tosf /six.tosf /seven.tosf
+  /eight.tosf /nine.tosf /colon /semicolon /less.tosf /equal.tosf /greater.tosf /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /braceleft /bar /braceright /asciitilde.tosf /hyphen
+%80
+  /Abreve /Aogonek /Cacute /Ccaron /Dcaron /Ecaron /Eogonek /Gbreve
+  /Lacute /Lcaron /Lslash /Nacute /Ncaron /Eng /Ohungarumlaut /Racute
+%90
+  /Rcaron /Sacute /Scaron /Scedilla /Tcaron /uni0162 /Uhungarumlaut /Uring
+  /Ydieresis /Zacute /Zcaron /Zdotaccent /IJ /Idotaccent /dcroat /section.tosf
+%A0
+  /abreve /aogonek /cacute /ccaron /dcaron /ecaron /eogonek /gbreve
+  /lacute /lcaron /lslash /nacute /ncaron /eng /ohungarumlaut /racute
+%B0
+  /rcaron /sacute /scaron /scedilla /tcaron /uni0163 /uhungarumlaut /uring
+  /ydieresis /zacute /zcaron /zdotaccent /ij /exclamdown /questiondown /sterling.tosf
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /OE
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /.notdef
+%E0
+  /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla
+  /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+%F0
+  /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /oe
+  /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /germandbls
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_t1
+% --tfm-directory=texmf/fonts/tfm/public/fira
+% --vf-directory=texmf/fonts/vf/public/fira
+% --type1-directory=texmf/fonts/type1/public/fira
+% --truetype-directory=texmf/fonts/truetype/public/fira
+% --encoding-directory=texmf/fonts/enc/dvips/fira
+% --map-file=texmf/fonts/map/dvips/fira/FiraMono.map --no-updmap
+% --coding-scheme=EXTENDED TEX FONT ENCODING - LATIN --feature=onum
+% --feature=tnum --ligkern=f i =: fi --ligkern=f l =: fl --ligkern=f f =: ff
+% --ligkern=ff i =: ffi --ligkern=ff l =: ffl FiraMono-Bold.otf
+% FiraMono-Bold-tosf-t1'

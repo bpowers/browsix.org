@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_f3uqdfdum6c5emd4thie5bbnhg
+% Encoding created by otftotfm on Mon Jul 28 10:43:11 2014
+% Command line follows encoding
+/AutoEnc_f3uqdfdum6c5emd4thie5bbnhg [
+%00
+  /.notdef /uni0394 /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /uni03A9 /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /dotlessj /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedblright /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero.lnum /one.lnum /two.lnum /three.lnum /four.lnum /five.lnum /six.lnum /seven.lnum
+  /eight.lnum /nine.lnum /colon /semicolon /exclamdown /equal /questiondown /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /quotedblleft /bracketright /circumflex /dotaccent
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /endash /emdash /hungarumlaut /tilde /dieresis
+%80
+  /f_f /f_i /f_l /f_f_i /f_f_l /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%A0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ot1
+% --tfm-directory=fonts/tfm/impallari/raleway
+% --vf-directory=fonts/vf/impallari/raleway
+% --type1-directory=fonts/type1/impallari/raleway
+% --truetype-directory=fonts/truetype/impallari/raleway
+% --encoding-directory=fonts/enc/dvips/raleway
+% --map-file=fonts/map/dvips/raleway/Raleway.map --no-updmap
+% --coding-scheme=TEX TEXT --feature=kern --feature=liga --feature=lnum
+% fonts/opentype/impallari/raleway/Raleway-Black-Italic.otf
+% Raleway-BlackItalic-tlf-ot1'

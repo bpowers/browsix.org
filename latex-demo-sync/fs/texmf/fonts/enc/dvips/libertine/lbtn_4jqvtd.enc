@@ -1,0 +1,68 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_4jqvtdda3gzqe7q3tipqau3soe
+% Encoding created by otftotfm on Thu Dec  6 14:53:11 2012
+% Command line follows encoding
+/AutoEnc_4jqvtdda3gzqe7q3tipqau3soe [
+%00
+  /.notdef /uni2206 /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /uni2126 /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /dotlessj /grave /acute /.notdef /.notdef /macron /.notdef
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedblright /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero /one /two /three /four /five /six /seven
+  /eight /nine /colon /semicolon /exclamdown /equal /questiondown /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /quotedblleft /bracketright /.notdef /.notdef
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /endash /emdash /.notdef /.notdef /dieresis
+%80
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%A0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ot1
+% --tfm-directory=texmf-mono/fonts/tfm/public/libertine
+% --vf-directory=texmf-mono/fonts/vf/public/libertine
+% --pl-directory=texmf-mono/fonts/pl/public/libertine
+% --vpl-directory=texmf-mono/fonts/vpl/public/libertine
+% --type1-directory=texmf-mono/fonts/type1/public/libertine
+% --truetype-directory=texmf-mono/fonts/truetype/public/libertine
+% --type42-directory=texmf-mono/fonts/type42/public/libertine
+% --encoding-directory=texmf-mono/fonts/enc/dvips/public
+% --map-file=texmf-mono/fonts/map/dvips/public/LinuxLibertineMonoT.map
+% --no-updmap --coding-scheme=TEX TEXT --feature=tnum --ligkern=f i =: fi
+% --ligkern=f l =: fl --ligkern=f f =: ff --ligkern=ff i =: ffi --ligkern=ff
+% l =: ffl LinLibertine530_MBO.otf LinLibertineMTBO-tlf-ot1'

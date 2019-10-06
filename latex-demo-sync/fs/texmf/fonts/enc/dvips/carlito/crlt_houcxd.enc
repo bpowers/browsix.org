@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_houcxdtkxcg6yxwovhopqtifoh
+% Encoding created by otftotfm on Wed Aug 20 21:07:37 2014
+% Command line follows encoding
+/AutoEnc_houcxdtkxcg6yxwovhopqtifoh [
+%00
+  /uniFB00 /Euro.pnum /uniFB01 /uniFB02 /fraction /dotaccent /hungarumlaut /ogonek
+  /uniFB03 /uniFB04 /afii61664 /f_b.liga /f_h.liga /f_j.liga /f_k.liga /f_t.liga
+%10
+  /dotlessi /uni0237 /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedbl /numbersign /dollar.pnum /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero.pnum /one.pnum /two.pnum /three.pnum /four.pnum /five.pnum /six.pnum /seven.pnum
+  /eight.pnum /nine.pnum /colon /semicolon /less /equal /greater /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /circumflex /underscore
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /braceleft /bar /braceright /tilde /dieresis
+%80
+  /Lslash /quotesingle /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl
+  /circumflex /perthousand /Scaron /guilsinglleft /OE /Zcaron /asciicircum /minus
+%90
+  /lslash /quoteleft /quoteright /quotedblleft /quotedblright /bullet /endash /emdash
+  /tilde /trademark /scaron /guilsinglright /oe /zcaron /asciitilde /Ydieresis
+%A0
+  /t_f.liga /exclamdown /cent /sterling.pnum /currency /yen.pnum /brokenbar /section
+  /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /t_t.liga /registered /macron
+%B0
+  /degree /plusminus /uni00B2 /uni00B3 /acute /uni00B5 /paragraph /periodcentered
+  /cedilla /uni00B9 /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls
+%E0
+  /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla
+  /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+%F0
+  /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide
+  /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ly1
+% --tfm-directory=texmf/fonts/tfm/typoland/carlito
+% --vf-directory=texmf/fonts/vf/typoland/carlito
+% --type1-directory=texmf/fonts/type1/typoland/carlito
+% --truetype-directory=texmf/fonts/truetype/typoland/carlito
+% --encoding-directory=texmf/fonts/enc/dvips/carlito
+% --map-file=texmf/fonts/map/dvips/carlito/Carlito.map --no-updmap
+% --coding-scheme=TEX TYPEWRITER AND WINDOWS ANSI --feature=kern
+% --feature=liga --feature=lnum --feature=pnum Carlito-BoldItalic.otf
+% Carlito-BoldItalic-lf-ly1'

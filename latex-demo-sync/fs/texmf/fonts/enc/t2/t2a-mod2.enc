@@ -1,0 +1,290 @@
+% This file is generated from `T2Auni.map' and `glyphlist.txt', `broken2.txt'
+%
+% LIGKERN hyphen hyphen =: endash ; endash hyphen =: emdash ;
+% LIGKERN quoteleft quoteleft =: quotedblleft ;
+% LIGKERN quoteright quoteright =: quotedblright ;
+% LIGKERN comma comma =: quotedblbase ; less less =: guillemotleft ;
+% LIGKERN greater greater =: guillemotright ;
+% LIGKERN f f =: ff ; f i =: fi ; f l =: fl ; ff i =: ffi ; ff l =: ffl ;
+%
+% LIGKERN space {} * ; * {} space ; zero {} * ; * {} zero ;
+% LIGKERN one {} * ; * {} one ; two {} * ; * {} two ;
+% LIGKERN three {} * ; * {} three ; four {} * ; * {} four ;
+% LIGKERN five {} * ; * {} five ; six {} * ; * {} six ;
+% LIGKERN seven {} * ; * {} seven ; eight {} * ; * {} eight ;
+% LIGKERN nine {} * ; * {} nine ;
+%
+/T2AModified2Encoding [
+% 0x00
+/grave
+/acute
+/circumflex
+/tilde
+/dieresis
+/hungarumlaut
+/ring
+/caron
+/breve
+/macron
+/dotaccent
+/cedilla
+/ogonek
+/.notdef
+/angleleft
+/angleright
+% 0x10
+/quotedblleft
+/quotedblright
+/cyrflex
+/dblgrave
+/cyrbreve
+/endash
+/emdash
+/.notdef
+/.notdef
+/dotlessi
+/.notdef
+/ff
+/fi
+/fl
+/ffi
+/ffl
+% 0x20
+/.notdef
+/exclam
+/quotedbl
+/numbersign
+/dollar
+/percent
+/ampersand
+/quoteright
+/parenleft
+/parenright
+/asterisk
+/plus
+/comma
+/hyphen
+/period
+/slash
+% 0x30
+/zero
+/one
+/two
+/three
+/four
+/five
+/six
+/seven
+/eight
+/nine
+/colon
+/semicolon
+/less
+/equal
+/greater
+/question
+% 0x40
+/at
+/A
+/B
+/C
+/D
+/E
+/F
+/G
+/H
+/I
+/J
+/K
+/L
+/M
+/N
+/O
+% 0x50
+/P
+/Q
+/R
+/S
+/T
+/U
+/V
+/W
+/X
+/Y
+/Z
+/bracketleft
+/backslash
+/bracketright
+/asciicircum
+/underscore
+% 0x60
+/quoteleft
+/a
+/b
+/c
+/d
+/e
+/f
+/g
+/h
+/i
+/j
+/k
+/l
+/m
+/n
+/o
+% 0x70
+/p
+/q
+/r
+/s
+/t
+/u
+/v
+/w
+/x
+/y
+/z
+/braceleft
+/bar
+/braceright
+/asciitilde
+/hyphen
+% 0x80
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+% 0x90
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/threesuperior
+/.notdef
+/currency
+/section
+% 0xA0
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+% 0xB0
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/sterling
+/quotedblbase
+/guillemotleft
+/guillemotright
+% 0xC0
+/aacute
+/acircumflex
+/divide
+/ccedilla
+/adieresis
+/aring
+/odieresis
+/uacute
+/eacute
+/ecircumflex
+/edieresis
+/igrave
+/iacute
+/icircumflex
+/idieresis
+/eth
+% 0xD0
+/ograve
+/oacute
+/ocircumflex
+/otilde
+/ae
+/egrave
+/atilde
+/thorn
+/ucircumflex
+/yacute
+/ydieresis
+/ugrave
+/oslash
+/udieresis
+/agrave
+/ntilde
+% 0xE0
+/Aacute
+/Acircumflex
+/multiply
+/Ccedilla
+/Adieresis
+/Aring
+/Odieresis
+/Uacute
+/Eacute
+/Ecircumflex
+/Edieresis
+/Igrave
+/Iacute
+/Icircumflex
+/Idieresis
+/Eth
+% 0xF0
+/Ograve
+/Oacute
+/Ocircumflex
+/Otilde
+/AE
+/Egrave
+/Atilde
+/Thorn
+/Ucircumflex
+/Yacute
+/germandbls
+/Ugrave
+/Oslash
+/Udieresis
+/Agrave
+/Ntilde
+] def

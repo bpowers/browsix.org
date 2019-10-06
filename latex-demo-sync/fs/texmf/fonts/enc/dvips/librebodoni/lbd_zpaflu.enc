@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_zpaflui5ohpabb4apzxu2muefg
+% Encoding created by otftotfm on Tue Jan 12 21:26:35 2016
+% Command line follows encoding
+/AutoEnc_zpaflui5ohpabb4apzxu2muefg [
+%00
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /cedilla /ogonek /quotesinglbase /exclam /asterisk
+%10
+  /question /C /quotedblbase /bar /exclamdown /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /questiondown /.notdef
+%20
+  /.notdef /endash /.notdef /.notdef /dollar /.notdef /.notdef /quotesingle
+  /.notdef /.notdef /.notdef /.notdef /comma /.notdef /period /fraction
+%30
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /minus /.notdef /.notdef
+%40
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%50
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /Omega
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%60
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%70
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%80
+  /.notdef /.notdef /.notdef /.notdef /dagger /daggerdbl /.notdef /perthousand
+  /bullet /.notdef /.notdef /.notdef /florin /colonmonetary /uni20A9 /.notdef
+%90
+  /.notdef /.notdef /lira /.notdef /.notdef /.notdef /.notdef /trademark
+  /.notdef /.notdef /.notdef /uni2116 /.notdef /estimated /.notdef /servicemark
+%A0
+  /.notdef /.notdef /cent /sterling /currency /yen /brokenbar /section
+  /.notdef /copyright /ordfeminine /.notdef /logicalnot /.notdef /registered /.notdef
+%B0
+  /degree /plusminus /twosuperior /threesuperior /.notdef /mu /paragraph /periodcentered
+  /.notdef /onesuperior /ordmasculine /radical /onequarter /onehalf /threequarters /Euro
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /multiply /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /divide /.notdef
+  /f_f_l /f_f_i /f_f /f_l /l /f_i /i /f
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ts1
+% --tfm-directory=texmf/fonts/tfm/impallari/librebodoni
+% --vf-directory=texmf/fonts/vf/impallari/librebodoni
+% --type1-directory=texmf/fonts/type1/impallari/librebodoni
+% --truetype-directory=texmf/fonts/truetype/impallari/librebodoni
+% --encoding-directory=texmf/fonts/enc/dvips/librebodoni
+% --map-file=texmf/fonts/map/dvips/librebodoni/LibreBodoni.map --no-updmap
+% --coding-scheme=TEX TEXT COMPANION SYMBOLS 1---TS1 --ligkern=f i =: fi
+% --ligkern=f l =: fl --ligkern=f f =: ff --ligkern=ff i =: ffi --ligkern=ff
+% l =: ffl LibreBodoni-BoldItalic.otf LibreBodoni-BoldItalic-tlf-ts1'

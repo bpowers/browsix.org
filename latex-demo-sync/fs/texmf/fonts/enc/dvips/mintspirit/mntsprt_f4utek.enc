@@ -1,0 +1,64 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_f4utekfkktzxyqsx3734thsizh
+% Encoding created by otftotfm on Sat Nov  2 12:18:19 2013
+% Command line follows encoding
+/AutoEnc_f4utekfkktzxyqsx3734thsizh [
+%00
+  /Gamma /Delta /Theta /Lambda /Xi /Pi /Sigma /Upsilon
+  /Phi /Psi /Omega /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /uni0237 /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedblright /uniF650 /uniF653 /uniF60F /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /uniF643 /uniF644 /uniF645 /uniF646 /uniF647 /uniF648 /uniF649 /uniF64A
+  /uniF64B /uniF64C /colon /semicolon /exclamdown /equal /questiondown /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /quotedblleft /bracketright /circumflex /dotaccent
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /endash /emdash /hungarumlaut /tilde /dieresis
+%80
+  /uniFB01 /uniFB03 /uniFB00 /uniFB02 /uniFB04 /uniE6AC /uniE6AE /uniE6B1
+  /uniE6B2 /uniE6B3 /uniE6AD /uniE6AF /uniE6B4 /uniE6B5 /uniE6B6 /.notdef
+%90
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%A0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ot1
+% --tfm-directory=texmf/fonts/tfm/arkandis/mintspirit
+% --vf-directory=texmf/fonts/vf/arkandis/mintspirit
+% --type1-directory=texmf/fonts/type1/arkandis/mintspirit
+% --truetype-directory=texmf/fonts/truetype/arkandis/mintspirit
+% --encoding-directory=texmf/fonts/enc/dvips/mintspirit
+% --map-file=texmf/fonts/map/dvips/mintspirit/MintSpirit.map --no-updmap
+% --coding-scheme=TEX TEXT --feature=kern --feature=liga --feature=onum
+% --feature=tnum MintSpirit-BoldItalic.otf MintSpirit-BoldItalic-tosf-ot1'

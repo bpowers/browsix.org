@@ -1,0 +1,64 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_lllwh45nzznfs4u4ymuaji5dic
+% Encoding created by otftotfm on Wed Aug 20 21:07:37 2014
+% Command line follows encoding
+/AutoEnc_lllwh45nzznfs4u4ymuaji5dic [
+%00
+  /Gamma /Delta /Theta /Lambda /Xi /Pi /Sigma /Upsilon
+  /Phi /Psi /Omega /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /uni0237 /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedblright /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero.oldstyle /one.oldstyle /two.oldstyle /three.oldstyle /four.oldstyle /five.oldstyle /six.oldstyle /seven.oldstyle
+  /eight.oldstyle /nine.oldstyle /colon /semicolon /exclamdown /equal /questiondown /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /quotedblleft /bracketright /circumflex /dotaccent
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /endash /emdash /hungarumlaut /tilde /dieresis
+%80
+  /uniFB00 /uniFB01 /uniFB02 /uniFB03 /uniFB04 /f_b.liga /f_h.liga /f_j.liga
+  /f_k.liga /f_t.liga /t_f.liga /t_t.liga /t_i.liga /f_f_b.liga /f_f_h.liga /f_f_j.liga
+%90
+  /f_f_k.liga /f_f_t.liga /t_t_f.liga /t_t_i.liga /f_dotlessi.liga /t_dotlessi.liga /f_uni0237.liga /f_f_dotlessi.liga
+  /f_f_uni0237.liga /t_t_dotlessi.liga /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%A0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ot1
+% --tfm-directory=texmf/fonts/tfm/typoland/carlito
+% --vf-directory=texmf/fonts/vf/typoland/carlito
+% --type1-directory=texmf/fonts/type1/typoland/carlito
+% --truetype-directory=texmf/fonts/truetype/typoland/carlito
+% --encoding-directory=texmf/fonts/enc/dvips/carlito
+% --map-file=texmf/fonts/map/dvips/carlito/Carlito.map --no-updmap
+% --coding-scheme=TEX TEXT --feature=kern --feature=liga --feature=onum
+% --feature=tnum Carlito-BoldItalic.otf Carlito-BoldItalic-tosf-ot1'

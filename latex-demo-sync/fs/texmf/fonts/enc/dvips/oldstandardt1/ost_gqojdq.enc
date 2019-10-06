@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_gqojdqhgbqskgmm3tts4f4jubc
+% Encoding created by otftotfm on Tue Jun 28 13:31:39 2016
+% Command line follows encoding
+/AutoEnc_gqojdqhgbqskgmm3tts4f4jubc [
+%00
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /cedilla /ogonek /quotesinglbase /exclam /asterisk
+%10
+  /question /C /quotedblbase /bar /questiondown /.notdef /.notdef /.notdef
+  /arrowleft /arrowright /.notdef /.notdef /.notdef /.notdef /exclamdown /.notdef
+%20
+  /.notdef /endash /.notdef /.notdef /dollar /.notdef /.notdef /quotesingle
+  /.notdef /.notdef /.notdef /.notdef /comma /.notdef /period /fraction
+%30
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /uni27E8 /minus /uni27E9 /.notdef
+%40
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%50
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /Ohm
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /arrowup /arrowdown
+%60
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%70
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%80
+  /.notdef /.notdef /.notdef /.notdef /dagger /daggerdbl /.notdef /perthousand
+  /bullet /.notdef /.notdef /.notdef /florin /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /trademark
+  /uni2031 /.notdef /.notdef /afii61352 /.notdef /.notdef /.notdef /.notdef
+%A0
+  /.notdef /.notdef /cent /sterling /currency /yen /brokenbar /section
+  /.notdef /copyright /ordfeminine /.notdef /logicalnot /.notdef /registered /.notdef
+%B0
+  /degree /plusminus /twosuperior /threesuperior /.notdef /mu1 /paragraph /periodcentered
+  /uni203B /onesuperior /ordmasculine /radical /onequarter /onehalf /threequarters /Euro
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /multiply /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /divide /.notdef
+  /ffl /ffi /ff /fl /l /fi /i /f
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ts1
+% --tfm-directory=texmf/fonts/tfm/public/oldstandardt1
+% --vf-directory=texmf/fonts/vf/public/oldstandardt1
+% --type1-directory=texmf/fonts/type1/public/oldstandardt1
+% --truetype-directory=texmf/fonts/truetype/public/oldstandardt1
+% --encoding-directory=texmf/fonts/enc/dvips/oldstandardt1
+% --map-file=texmf/fonts/map/dvips/oldstandardt1/OldStandard.map --no-updmap
+% --coding-scheme=TEX TEXT COMPANION SYMBOLS 1---TS1 --ligkern=f i =: fi
+% --ligkern=f l =: fl --ligkern=f f =: ff --ligkern=ff i =: ffi --ligkern=ff
+% l =: ffl --x-height=x OldStandard-Bold.otf OldStandard-Bold-tlf-ts1'

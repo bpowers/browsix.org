@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_v7it2wgy3cdticweazx26vjzee
+% Encoding created by otftotfm on Sun Jan  4 14:48:05 2015
+% Command line follows encoding
+/AutoEnc_v7it2wgy3cdticweazx26vjzee [
+%00
+  /S.sc /Euro /FI.sc /ffi /fraction /dotaccent /hungarumlaut /ogonek
+  /FL.sc /ff /afii61664 /ffl /f_b /f_h /f_j /f_k
+%10
+  /dotlessi /uni0237 /grave.sc /acute.sc /caron.sc /breve.sc /macron.sc /ring
+  /cedilla /.notdef /AE.sc /oe /Oslash.sc /AE /OE /Oslash
+%20
+  /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero.taboldstyle /one.taboldstyle /two.taboldstyle /three.taboldstyle /four.taboldstyle /five.taboldstyle /six.taboldstyle /seven.taboldstyle
+  /eight.taboldstyle /nine.taboldstyle /colon /semicolon /less /equal /greater /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /circumflex.sc /underscore
+%60
+  /quoteleft /A.sc /B.sc /C.sc /D.sc /E.sc /F.sc /G.sc
+  /H.sc /I.sc /J.sc /K.sc /L.sc /M.sc /N.sc /O.sc
+%70
+  /P.sc /Q.sc /R.sc /S.sc /T.sc /U.sc /V.sc /W.sc
+  /X.sc /Y.sc /Z.sc /braceleft /bar /braceright /tilde /dieresis
+%80
+  /Lslash /quotesingle /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl
+  /circumflex.sc /perthousand /Scaron /guilsinglleft /OE /Zcaron /asciicircum /minus
+%90
+  /lslash /quoteleft /quoteright /quotedblleft /quotedblright /bullet /endash /emdash
+  /tilde /trademark /Scaron.sc /guilsinglright /oe /Zcaron.sc /asciitilde /Ydieresis
+%A0
+  /uni00A0 /exclamdown /cent /sterling /currency /yen /brokenbar /section
+  /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /uni00AD /registered /macron.sc
+%B0
+  /degree /plusminus /twosuperior /threesuperior /acute.sc /uni00B5 /paragraph /periodcentered
+  /cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /.notdef
+%E0
+  /Agrave.sc /Aacute.sc /Acircumflex.sc /Atilde.sc /Adieresis.sc /Aring.sc /AE.sc /Ccedilla.sc
+  /Egrave.sc /Eacute.sc /Ecircumflex.sc /Edieresis.sc /Igrave.sc /Iacute.sc /Icircumflex.sc /Idieresis.sc
+%F0
+  /Eth.sc /Ntilde.sc /Ograve.sc /Oacute.sc /Ocircumflex.sc /Otilde.sc /Odieresis.sc /divide
+  /Oslash.sc /Ugrave.sc /Uacute.sc /Ucircumflex.sc /Udieresis.sc /Yacute.sc /Thorn.sc /Ydieresis.sc
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ly1
+% --tfm-directory=texmf/fonts/tfm/public/heuristica
+% --vf-directory=texmf/fonts/vf/public/heuristica
+% --type1-directory=texmf/fonts/type1/public/heuristica
+% --truetype-directory=texmf/fonts/truetype/public/heuristica
+% --encoding-directory=texmf/fonts/enc/dvips/heuristica
+% --map-file=texmf/fonts/map/dvips/heuristica/Heuristica.map --no-updmap
+% --coding-scheme=TEX TYPEWRITER AND WINDOWS ANSI --feature=kern
+% --feature=liga --feature=onum --feature=smcp --unicoding=germandbls =:
+% SSsmall Heuristica-Regular.otf Heuristica-Regular-tosf-sc-ly1'

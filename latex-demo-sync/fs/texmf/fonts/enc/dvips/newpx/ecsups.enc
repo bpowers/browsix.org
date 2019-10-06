@@ -1,0 +1,258 @@
+/ECsupsEncoding [    % now 256 chars follow
+/grave           % 0x00 U+0060
+/acute           % 0x01 U+00B4
+/circumflex      % 0x02 U+02C6
+/tilde           % 0x03 U+02DC
+/dieresis        % 0x04 U+00A8
+/hungarumlaut    % 0x05 U+02DD
+/ring            % 0x06 U+02DA
+/caron           % 0x07 U+02C7
+/breve           % 0x08 U+02D8
+/macron          % 0x09 U+00AF
+/dotaccent       % 0x0A U+02D9
+/cedilla         % 0x0B U+00B8
+/ogonek          % 0x0C U+02DB
+/quotesinglbase  % 0x0D U+201A
+/guilsinglleft   % 0x0E U+2039
+/guilsinglright  % 0x0F U+203A
+/quotedblleft    % 0x10 U+201C
+/quotedblright   % 0x11 U+201D
+/quotedblbase    % 0x12 U+201E
+/guillemotleft   % 0x13 U+00AB
+/guillemotright  % 0x14 U+00BB
+/endash          % 0x15 U+2013
+/emdash          % 0x16 U+2014
+/cwm             % 0x17 U+200B
+/perthousandzero % 0x18 ______
+/dotlessi        % 0x19 U+0131
+/dotlessj        % 0x1A U+0237
+/ff              % 0x1B U+FB00
+/fi              % 0x1C U+FB01
+/fl              % 0x1D U+FB02
+/ffi             % 0x1E U+FB03
+/ffl             % 0x1F U+FB04
+/visiblespace    % 0x20 U+2423
+/exclam.superior
+/quotedbl.superior
+/numbersign.superior
+/dollar.superior
+/percent.superior
+/ampersand.superior
+/quoteright.superior
+/parenleft.superior
+/parenright.superior
+/asterisk.superior
+/plus.superior
+/comma.superior
+/hyphen.superior
+/period.superior
+/slash.superior
+/zero.superior
+/one.superior
+/two.superior
+/three.superior
+/four.superior
+/five.superior
+/six.superior
+/seven.superior
+/eight.superior
+/nine.superior
+/colon.superior
+/semicolon.superior
+/less.superior
+/equal.superior
+/greater.superior
+/question.superior
+/at.superior
+/A.superior
+/B.superior
+/C.superior
+/D.superior
+/E.superior
+/F.superior
+/G.superior
+/H.superior
+/I.superior              
+/J.superior              
+/K.superior              
+/L.superior              
+/M.superior              
+/N.superior              
+/O.superior              
+/P.superior              
+/Q.superior              
+/R.superior              
+/S.superior              
+/T.superior              
+/U.superior              
+/V.superior              
+/W.superior              
+/X.superior              
+/Y.superior              
+/Z.superior              
+/bracketleft.superior    
+/backslash.superior      
+/bracketright.superior
+/asciicircum.superior
+/underscore.superior
+/quoteleft.superior
+/a.superior
+/b.superior
+/c.superior
+/d.superior
+/e.superior
+/f.superior
+/g.superior
+/h.superior
+/i.superior
+/j.superior
+/k.superior
+/l.superior
+/m.superior
+/n.superior
+/o.superior
+/p.superior
+/q.superior
+/r.superior
+/s.superior
+/t.superior
+/u.superior
+/v.superior
+/w.superior
+/x.superior
+/y.superior
+/z.superior
+/braceleft.superior
+/bar.superior
+/braceright.superior
+/asciitilde.superior
+/hyphen          % 0x7F U+002D (explicit "hyphen char")
+/Abreve          % 0x80 U+0102
+/Aogonek         % 0x81 U+0104
+/Cacute          % 0x82 U+0106
+/Ccaron          % 0x83 U+010C
+/Dcaron          % 0x84 U+010E
+/Ecaron          % 0x85 U+011A
+/Eogonek         % 0x86 U+0118
+/Gbreve          % 0x87 U+011E
+/Lacute          % 0x88 U+0139
+/Lcaron          % 0x89 U+013D
+/Lslash          % 0x8A U+0141
+/Nacute          % 0x8B U+0143
+/Ncaron          % 0x8C U+0147
+/Eng             % 0x8D U+014A
+/Ohungarumlaut   % 0x8E U+0150
+/Racute          % 0x8F U+0154
+/Rcaron          % 0x90 U+0158
+/Sacute          % 0x91 U+015A
+/Scaron          % 0x92 U+0160
+/Scedilla        % 0x93 U+015E
+/Tcaron          % 0x94 U+0164
+/Tcedilla        % 0x95 U+0162
+/Uhungarumlaut   % 0x96 U+0170
+/Uring           % 0x97 U+016E
+/Ydieresis       % 0x98 U+0178
+/Zacute          % 0x99 U+0179
+/Zcaron          % 0x9A U+017D
+/Zdotaccent      % 0x9B U+017B
+/IJ              % 0x9C U+0132
+/Idotaccent      % 0x9D U+0130
+/dcroat          % 0x9E U+0111
+/section         % 0x9F U+00A7
+/abreve          % 0xA0 U+0103
+/aogonek         % 0xA1 U+0105
+/cacute          % 0xA2 U+0107
+/ccaron          % 0xA3 U+010D
+/dcaron          % 0xA4 U+010F
+/ecaron          % 0xA5 U+011B
+/eogonek         % 0xA6 U+0119
+/gbreve          % 0xA7 U+011F
+/lacute          % 0xA8 U+013A
+/lcaron          % 0xA9 U+013E
+/lslash          % 0xAA U+0142
+/nacute          % 0xAB U+0144
+/ncaron          % 0xAC U+0148
+/eng             % 0xAD U+014B
+/ohungarumlaut   % 0xAE U+0151
+/racute          % 0xAF U+0155
+/rcaron          % 0xB0 U+0159
+/sacute          % 0xB1 U+015B
+/scaron          % 0xB2 U+0161
+/scedilla        % 0xB3 U+015F
+/tcaron          % 0xB4 U+0165
+/tcedilla        % 0xB5 U+0163
+/uhungarumlaut   % 0xB6 U+0171
+/uring           % 0xB7 U+016F
+/ydieresis       % 0xB8 U+00FF
+/zacute          % 0xB9 U+017A
+/zcaron          % 0xBA U+017E
+/zdotaccent      % 0xBB U+017C
+/ij              % 0xBC U+0133
+/exclamdown.superior
+/questiondown    % 0xBE U+00BF
+/sterling        % 0xBF U+00A3
+/Agrave          % 0xC0
+/Aacute          % 0xC1
+/Acircumflex     % 0xC2
+/Atilde          % 0xC3
+/Adieresis       % 0xC4
+/Aring           % 0xC5
+/AE              % 0xC6
+/Ccedilla        % 0xC7
+/Egrave          % 0xC8
+/Eacute          % 0xC9
+/Ecircumflex     % 0xCA
+/Edieresis       % 0xCB
+/Igrave          % 0xCC
+/Iacute          % 0xCD
+/Icircumflex     % 0xCE
+/Idieresis       % 0xCF
+/Eth             % 0xD0
+/Ntilde          % 0xD1
+/Ograve          % 0xD2
+/Oacute          % 0xD3
+/Ocircumflex     % 0xD4
+/Otilde          % 0xD5
+/Odieresis       % 0xD6
+/OE              % 0xD7 U+0152
+/Oslash          % 0xD8
+/Ugrave          % 0xD9
+/Uacute          % 0xDA
+/Ucircumflex     % 0xDB
+/Udieresis       % 0xDC
+/Yacute          % 0xDD
+/Thorn           % 0xDE
+/Germandbls      % 0xDF (U+1E9E, /S_S)
+/agrave          % 0xE0
+/aacute          % 0xE1
+/acircumflex     % 0xE2
+/atilde          % 0xE3
+/adieresis       % 0xE4
+/aring           % 0xE5
+/ae              % 0xE6
+/ccedilla        % 0xE7
+/egrave.superior
+/eacute.superior
+/ecircumflex     % 0xEA
+/edieresis       % 0xEB
+/igrave          % 0xEC
+/iacute          % 0xED
+/icircumflex     % 0xEE
+/idieresis       % 0xEF
+/eth             % 0xF0
+/ntilde          % 0xF1
+/ograve          % 0xF2
+/oacute          % 0xF3
+/ocircumflex     % 0xF4
+/otilde          % 0xF5
+/odieresis       % 0xF6
+/oe              % 0xF7 U+0153
+/oslash          % 0xF8
+/ugrave          % 0xF9
+/uacute          % 0xFA
+/ucircumflex     % 0xFB
+/udieresis       % 0xFC
+/yacute          % 0xFD
+/thorn           % 0xFE
+/germandbls      % 0xFF U+00DF
+] def

@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: mybib.bib
+Warning--I'm ignoring musiol:2016gopherjs's extra "note" field
+--line 16 of file mybib.bib
+You've used 2 entries,
+            2118 wiz_defined-function locations,
+            509 strings with 4262 characters,
+and the built_in function-call counts, 622 in all, are:
+= -- 60
+> -- 14
+< -- 1
++ -- 6
+- -- 4
+* -- 29
+:= -- 98
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 7
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 32
+empty$ -- 60
+format.name$ -- 4
+if$ -- 140
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 1
+newline$ -- 13
+num.names$ -- 4
+pop$ -- 11
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 27
+stack$ -- 0
+substring$ -- 38
+swap$ -- 13
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 6
+width$ -- 3
+write$ -- 23
+(There was 1 warning)

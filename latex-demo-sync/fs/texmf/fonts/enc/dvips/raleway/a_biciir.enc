@@ -1,0 +1,66 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_biciirnzzp727zyqf5h63nf4qe
+% Encoding created by otftotfm on Mon Jul 28 10:43:11 2014
+% Command line follows encoding
+/AutoEnc_biciirnzzp727zyqf5h63nf4qe [
+%00
+  /.notdef /Euro /.notdef /.notdef /fraction /dotaccent /hungarumlaut /ogonek
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /dotlessj /grave /acute /caron /breve /macron /ring
+  /cedilla /.notdef /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero.lnum /one.lnum /two.lnum /three.lnum /four.lnum /five.lnum /six.lnum /seven.lnum
+  /eight.lnum /nine.lnum /colon /semicolon /less /equal /greater /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /circumflex /underscore
+%60
+  /quoteleft /A.sc /B.sc /C.sc /D.sc /E.sc /F.sc /G.sc
+  /H.sc /I.sc /J.sc /K.sc /L.sc /M.sc /N.sc /O.sc
+%70
+  /P.sc /Q.sc /R.sc /S.sc /T.sc /U.sc /V.sc /W.sc
+  /X.sc /Y.sc /Z.sc /braceleft /bar /braceright /tilde /dieresis
+%80
+  /Lslash /quotesingle /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl
+  /circumflex /perthousand /Scaron /guilsinglleft /OE /Zcaron /asciicircum /minus
+%90
+  /lslash /quoteleft /quoteright /quotedblleft /quotedblright /bullet /endash /emdash
+  /tilde /trademark /scaron /guilsinglright /oe /zcaron /asciitilde /Ydieresis
+%A0
+  /uni00A0 /exclamdown /cent /sterling /currency /yen /brokenbar /section
+  /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /uni00AD /registered /macron
+%B0
+  /degree /plusminus /twosuperior /threesuperior /acute /mu /paragraph /periodcentered
+  /cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /.notdef
+%E0
+  /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla
+  /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+%F0
+  /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide
+  /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ly1
+% --tfm-directory=fonts/tfm/impallari/raleway
+% --vf-directory=fonts/vf/impallari/raleway
+% --type1-directory=fonts/type1/impallari/raleway
+% --truetype-directory=fonts/truetype/impallari/raleway
+% --encoding-directory=fonts/enc/dvips/raleway
+% --map-file=fonts/map/dvips/raleway/Raleway.map --no-updmap
+% --coding-scheme=TEX TYPEWRITER AND WINDOWS ANSI --feature=kern
+% --feature=liga --feature=lnum --feature=smcp --unicoding=germandbls =:
+% SSsmall fonts/opentype/impallari/raleway/Raleway-Black-Italic.otf
+% Raleway-BlackItalic-tlf-sc-ly1'

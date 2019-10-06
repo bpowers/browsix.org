@@ -1,0 +1,66 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_vgw77zkpqp2w4fo4e2j2h2tkde
+% Encoding created by otftotfm on Fri May 23 08:02:34 2014
+% Command line follows encoding
+/AutoEnc_vgw77zkpqp2w4fo4e2j2h2tkde [
+%00
+  /grave.smcp /acute.smcp /circumflex.smcp /tilde.smcp /dieresis.smcp /hungarumlaut.smcp /ring.smcp /caron.smcp
+  /breve.smcp /macron.smcp /dotaccent.smcp /cedilla.smcp /ogonek.smcp /quotesinglbase /guilsinglleft.smcp /guilsinglright.smcp
+%10
+  /quotedblleft /quotedblright /quotedblbase /guillemotleft.smcp /guillemotright.smcp /endash.smcp /emdash.smcp /.notdef
+  /.notdef /dotlessi /dotlessj /.notdef /.notdef /.notdef /.notdef /.notdef
+%20
+  /.notdef /exclam.smcp /quotedbl /numbersign /dollar.smcp /percent /ampersand.smcp /quoteright
+  /parenleft.smcp /parenright.smcp /asterisk /plus /comma /hyphen.smcp /period /slash
+%30
+  /zero /one /two /three /four /five /six /seven
+  /eight /nine /colon /semicolon /less /equal /greater /question.smcp
+%40
+  /at.smcp /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft.smcp /backslash /bracketright.smcp /asciicircum.smcp /underscore
+%60
+  /quoteleft /a.smcp /b.smcp /c.smcp /d.smcp /e.smcp /f.smcp /g.smcp
+  /h.smcp /i.smcp /j.smcp /k.smcp /l.smcp /m.smcp /n.smcp /o.smcp
+%70
+  /p.smcp /q.smcp /r.smcp /s.smcp /t.smcp /u.smcp /v.smcp /w.smcp
+  /x.smcp /y.smcp /z.smcp /braceleft.smcp /bar /braceright.smcp /asciitilde.smcp /hyphen.smcp
+%80
+  /Abreve /Aogonek /Cacute /Ccaron /Dcaron /Ecaron /Eogonek /Gbreve
+  /Lacute /Lcaron /Lslash /Nacute /Ncaron /Eng /Ohungarumlaut /Racute
+%90
+  /Rcaron /Sacute /Scaron /Scedilla /Tcaron /Tcedilla /Uhungarumlaut /Uring
+  /Ydieresis /Zacute /Zcaron /Zdotaccent /IJ /Idotaccent /dcroat.smcp /section.smcp
+%A0
+  /abreve.smcp /aogonek.smcp /cacute.smcp /ccaron.smcp /dcaron.smcp /ecaron.smcp /eogonek.smcp /gbreve.smcp
+  /lacute.smcp /lcaron.smcp /lslash.smcp /nacute.smcp /ncaron.smcp /eng.smcp /ohungarumlaut.smcp /racute.smcp
+%B0
+  /rcaron.smcp /sacute.smcp /scaron.smcp /scedilla.smcp /tcaron.smcp /tcedilla.smcp /uhungarumlaut.smcp /uring.smcp
+  /ydieresis.smcp /zacute.smcp /zcaron.smcp /zdotaccent.smcp /ij.smcp /exclamdown.smcp /questiondown.smcp /sterling.smcp
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /OE
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /.notdef
+%E0
+  /agrave.smcp /aacute.smcp /acircumflex.smcp /atilde.smcp /adieresis.smcp /aring.smcp /ae.smcp /ccedilla.smcp
+  /egrave.smcp /eacute.smcp /ecircumflex.smcp /edieresis.smcp /igrave.smcp /iacute.smcp /icircumflex.smcp /idieresis.smcp
+%F0
+  /eth.smcp /ntilde.smcp /ograve.smcp /oacute.smcp /ocircumflex.smcp /otilde.smcp /odieresis.smcp /oe.smcp
+  /oslash.smcp /ugrave.smcp /uacute.smcp /ucircumflex.smcp /udieresis.smcp /yacute.smcp /thorn.smcp /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_t1
+% --tfm-directory=texmf/fonts/tfm/public/playfair
+% --vf-directory=texmf/fonts/vf/public/playfair
+% --type1-directory=texmf/fonts/type1/public/playfair
+% --truetype-directory=texmf/fonts/truetype/public/playfair
+% --encoding-directory=texmf/fonts/enc/dvips/playfair
+% --map-file=texmf/fonts/map/dvips/playfair/PlayfairDisplay.map --no-updmap
+% --coding-scheme=EXTENDED TEX FONT ENCODING - LATIN --feature=kern
+% --feature=liga --feature=onum --feature=smcp --unicoding=germandbls =:
+% SSsmall PlayfairDisplay-BlackItalic.otf
+% PlayfairDisplay-BlackItalic-osf-sc-t1'

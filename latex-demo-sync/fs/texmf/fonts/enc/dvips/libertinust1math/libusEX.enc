@@ -1,0 +1,258 @@
+/libusEXenc[%
+/parenleft.size1 % 0
+/parenright.size1 % 1
+/uni2985.size1 % 2
+/uni2986.size1 % 3
+/bracketleft.size1 % 4
+/bracketright.size1 % 5
+/uni27E6.size1 % 6
+/uni27E7.size1 % 7
+/uni230A.size1 % 8
+/uni230B.size1 % 9
+/uni2308.size1 % 10
+/uni2309.size1 % 11
+/braceleft.size1 % 12
+/braceright.size1 % 13
+/uni2983.size1 % 14
+/uni2984.size1 % 15
+/uni27E8.size1 % 16
+/uni27E9.size1 % 17
+/uni27EA.size1 % 18
+/uni27EB.size1 % 19
+/uni2772.size1 % 20
+/uni2773.size1 % 21
+/slash.size1 % 22
+/uni005C.size1 % 23
+/parenleft.size2 % 24
+/parenright.size2 % 25
+/uni2985.size2 % 26
+/uni2986.size2 % 27
+/bracketleft.size2 % 28
+/bracketright.size2 % 29
+/uni27E6.size2 % 30
+/uni27E7.size2 % 31
+/uni230A.size2 % 32
+/uni230B.size2 % 33
+/uni2308.size2 % 34
+/uni2309.size2 % 35
+/braceleft.size2 % 36
+/braceright.size2 % 37
+/uni2983.size2 % 38
+/uni2984.size2 % 39
+/uni27E8.size2 % 40
+/uni27E9.size2 % 41
+/uni27EA.size2 % 42
+/uni27EB.size2 % 43
+/uni2772.size2 % 44
+/uni2773.size2 % 45
+/slash.size2 % 46
+/uni005C.size2 % 47
+/parenleft.size3 % 48
+/parenright.size3 % 49
+/uni2985.size3 % 50
+/uni2986.size3 % 51
+/bracketleft.size3 % 52
+/bracketright.size3 % 53
+/uni27E6.size3 % 54
+/uni27E7.size3 % 55
+/uni230A.size3 % 56
+/uni230B.size3 % 57
+/uni2308.size3 % 58
+/uni2309.size3 % 59
+/braceleft.size3 % 60
+/braceright.size3 % 61
+/uni2983.size3 % 62
+/uni2984.size3 % 63
+/uni27E8.size3 % 64
+/uni27E9.size3 % 65
+/uni27EA.size3 % 66
+/uni27EB.size3 % 67
+/uni2772.size3 % 68
+/uni2773.size3 % 69
+/slash.size3 % 70
+/uni005C.size3 % 71
+/parenleft.size4 % 72
+/parenright.size4 % 73
+/uni2985.size4 % 74
+/uni2986.size4 % 75
+/bracketleft.size4 % 76
+/bracketright.size4 % 77
+/uni27E6.size4 % 78
+/uni27E7.size4 % 79
+/uni230A.size4 % 80
+/uni230B.size4 % 81
+/uni2308.size4 % 82
+/uni2309.size4 % 83
+/braceleft.size4 % 84
+/braceright.size4 % 85
+/uni2983.size4 % 86
+/uni2984.size4 % 87
+/uni27E8.size4 % 88
+/uni27E9.size4 % 89
+/uni27EA.size4 % 90
+/uni27EB.size4 % 91
+/uni2772.size4 % 92
+/uni2773.size4 % 93
+/slash.size4 % 94
+/uni005C.size4 % 95
+/uni239B % 96
+/uni239E % 97
+/uni23A1 % 98
+/uni23A4 % 99
+/uni23A3 % 100
+/uni23A6 % 101
+/uni23A2 % 102
+/uni23A5 % 103
+/uni23A7 % 104
+/uni23AB % 105
+/uni23A9 % 106
+/uni23AD % 107
+/uni23A8 % 108
+/uni23AC % 109
+/uni23AA % 110
+/uni23AE % 111 right brace ext
+/uni239D % 112
+/uni23A0 % 113
+/uni239C % 114
+/uni239F % 115
+/radical.size1 % 116
+/radical.size2 % 117
+/radical.size3 % 118
+/radical.size4 % 119
+/radical.md % 120
+/radical.tp % 121
+/radical.size5 % 122
+/radical.size6 % 123
+/radical.size7 % 124
+/radical.bt % 125
+/integral
+/integral.size1
+/uni222C
+/uni222C.size1
+/uni222D
+/uni222D.size1
+/uni222E
+/uni222E.size1
+/uni2A0C
+/uni2A0C.size1
+/integral.sl
+/integral.size1sl
+/uni222C.sl
+/uni222C.size1sl
+/uni222D.sl
+/uni222D.size1sl
+/uni222E.sl
+/uni222E.size1sl
+/uni2A0C.sl
+/uni2A0C.size1sl
+/uni222F
+/uni222F.sl
+/uni222F.size1
+/uni222F.size1sl
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/uni2140 % 176
+/product % 177
+/uni2210 % 178, coproduct
+/summation % 179
+/uni22C0 % 180
+/uni22C1 % 181
+/uni22C2 % 182
+/uni22C3 % 183
+/uni29F8 % 184
+/uni29F9 % 185
+/uni2A00 % 186
+/uni2A01 % 187
+/uni2A02 % 188
+/uni2A03 % 189
+/uni2A04 % 190
+/uni2A05 % 191
+/uni2A06 % 192
+/uni2A07 % 193
+/uni2A08 % 194
+/uni2A09 % 195
+/uni2A0A % 196
+/uni2AFF % 197
+/uni2140.size1 % 198
+/product.size1 % 199
+/uni2210.size1 % 200
+/summation.size1 % 201
+/uni22C0.size1 % 202
+/uni22C1.size1 % 203
+/uni22C2.size1 % 204
+/uni22C3.size1 % 205
+/uni29F8.size1 % 206
+/uni29F9.size1 % 207
+/uni2A00.size1 % 208
+/uni2A01.size1 % 209
+/uni2A02.size1 % 210
+/uni2A03.size1 % 211
+/uni2A04.size1 % 212
+/uni2A05.size1 % 213
+/uni2A06.size1 % 214
+/uni2A07.size1 % 215
+/uni2A08.size1 % 216
+/uni2A09.size1 % 217
+/uni2A0A.size1 % 218
+/uni2AFF.size1 % 219
+/uni27EE % 220
+/uni27EF % 221
+/uni2985 % 222
+/uni2986 % 223
+/uni27E6 % 224
+/uni27E7 % 225
+/uni230A % 226
+/uni230B % 227
+/uni2308 % 228
+/uni2309 % 229
+/uni23B0 % 230
+/uni23B1 % 231
+/uni2983 % 232
+/uni2984 % 233
+/uni27E8 % 234
+/uni27E9 % 235
+/uni27EA % 236
+/uni27EB % 237
+/uni2772 % 238
+/uni2773 % 239
+/bar % 240
+/uni2016 % 241
+/.notdef % 242
+/uni007C.ex % 243
+/uni2016.ex % 244
+/uni2980.ex % 245
+/.notdef
+/.notdef
+/.notdef
+/radical % 249
+/uni27CC % 250
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+/.notdef
+] def

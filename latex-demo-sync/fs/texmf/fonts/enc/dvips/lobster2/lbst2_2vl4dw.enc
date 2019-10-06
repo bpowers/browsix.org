@@ -1,0 +1,64 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_2vl4dwnw5f3z6nt4e7fqd2pgsc
+% Encoding created by otftotfm on Wed Jan  8 11:53:57 2014
+% Command line follows encoding
+/AutoEnc_2vl4dwnw5f3z6nt4e7fqd2pgsc [
+%00
+  /grave /acute /circumflex /tilde /dieresis /hungarumlaut /ring /caron
+  /breve /u.end /ff /cedilla /ogonek /quotesinglbase /guilsinglleft /guilsinglright
+%10
+  /quotedblleft /quotedblright /quotedblbase /guillemotleft /guillemotright /endash /emdash /.notdef
+  /fi /dotlessi /.notdef /E_x /F_i /T_h /T_i /d.end
+%20
+  /.notdef /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero /one /two /three /four /five /six /seven
+  /eight /nine /colon /semicolon /less /equal /greater /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /braceleft /bar /braceright /asciitilde /hyphen
+%80
+  /fl /Aogonek /Cacute /Ccaron /ffi /ffl /Eogonek /Gbreve
+  /a_x /a_z /Lslash /Nacute /b_s /c_x /Ohungarumlaut /c_z
+%90
+  /e_x /Sacute /Scaron /e_z /f_t /f_u /Uhungarumlaut /f_x
+  /Ydieresis /Zacute /Zcaron /Zdotaccent /IJ /g_p /dcroat /section
+%A0
+  /g_x /aogonek /cacute /ccaron /g_z /i_x /eogonek /gbreve
+  /i_z /j_x /lslash /nacute /j_z /l_x /ohungarumlaut /l_z
+%B0
+  /m_x /sacute /scaron /m_z /n_z /o_s /uhungarumlaut /o_x
+  /ydieresis /zacute /zcaron /zdotaccent /ij /exclamdown /questiondown /sterling
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /OE
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /.notdef
+%E0
+  /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla
+  /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+%F0
+  /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /oe
+  /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /germandbls
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_t1
+% --tfm-directory=texmf/fonts/tfm/impallari/lobster2
+% --vf-directory=texmf/fonts/vf/impallari/lobster2
+% --type1-directory=texmf/fonts/type1/impallari/lobster2
+% --truetype-directory=texmf/fonts/truetype/impallari/lobster2
+% --encoding-directory=texmf/fonts/enc/dvips/lobster2
+% --map-file=texmf/fonts/map/dvips/lobster2/LobsterTwo.map --no-updmap
+% --coding-scheme=EXTENDED TEX FONT ENCODING - LATIN --feature=kern
+% --feature=liga LobsterTwo-BoldItalic.otf LobsterTwo-BoldItalic-lf-t1'

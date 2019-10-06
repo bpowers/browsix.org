@@ -1,0 +1,24 @@
+FontName (CMTypewriterCE-ItalicOsF)
+FullName (Computer Modern Typewriter Central European Italic Old Style Figures)
+AppleName (CM Typewriter CE ItalicOsF)
+FamilyName (CM Typewriter CE)
+version (001.001)
+isFixedPitch true
+CharacterSet (custom)
+Encoding (FontSpecificEncoding)
+ItalicAngle -14
+CapHeight 612
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 71
+Serif true
+Pi true
+MSMenuName (CM Typewriter CE SC)
+VPMenuName (CM Typewriter CE SC)
+WORDMenuName (CMTypewriterCESC)
+VPStyle (I)
+PCFileNamePrefix (fctrijce)
+PCLStrokeWeight 0
+WindowsCharSet 238
+WindowsFirstChar 32
+WindowsLastChar 255

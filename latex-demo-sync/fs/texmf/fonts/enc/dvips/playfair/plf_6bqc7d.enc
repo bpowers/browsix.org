@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_6bqc7ditanhzpelkrbkuzpe4uh
+% Encoding created by otftotfm on Fri May 23 08:02:33 2014
+% Command line follows encoding
+/AutoEnc_6bqc7ditanhzpelkrbkuzpe4uh [
+%00
+  /.notdef /Delta /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /Omega /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /dotlessj /grave.smcp /acute.smcp /caron.smcp /breve.smcp /macron.smcp /ring.smcp
+  /cedilla.smcp /.notdef /ae.smcp /oe.smcp /oslash.smcp /AE /OE /Oslash
+%20
+  /space /exclam.smcp /quotedblright /numbersign /dollar.smcp /percent /ampersand.smcp /quoteright
+  /parenleft.smcp /parenright.smcp /asterisk /plus /comma /hyphen.smcp /period /slash
+%30
+  /zero.lf /one.lf /two.lf /three.lf /four.lf /five.lf /six.lf /seven.lf
+  /eight.lf /nine.lf /colon /semicolon /exclamdown.smcp /equal /questiondown.smcp /question.smcp
+%40
+  /at.smcp /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft.smcp /quotedblleft /bracketright.smcp /circumflex.smcp /dotaccent.smcp
+%60
+  /quoteleft /a.smcp /b.smcp /c.smcp /d.smcp /e.smcp /f.smcp /g.smcp
+  /h.smcp /i.smcp /j.smcp /k.smcp /l.smcp /m.smcp /n.smcp /o.smcp
+%70
+  /p.smcp /q.smcp /r.smcp /s.smcp /t.smcp /u.smcp /v.smcp /w.smcp
+  /x.smcp /y.smcp /z.smcp /endash.smcp /emdash.smcp /hungarumlaut.smcp /tilde.smcp /dieresis.smcp
+%80
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%A0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ot1
+% --tfm-directory=texmf/fonts/tfm/public/playfair
+% --vf-directory=texmf/fonts/vf/public/playfair
+% --type1-directory=texmf/fonts/type1/public/playfair
+% --truetype-directory=texmf/fonts/truetype/public/playfair
+% --encoding-directory=texmf/fonts/enc/dvips/playfair
+% --map-file=texmf/fonts/map/dvips/playfair/PlayfairDisplay.map --no-updmap
+% --coding-scheme=TEX TEXT --feature=kern --feature=liga --feature=lnum
+% --feature=smcp --unicoding=germandbls =: SSsmall
+% PlayfairDisplay-BlackItalic.otf PlayfairDisplay-BlackItalic-lf-sc-ot1'

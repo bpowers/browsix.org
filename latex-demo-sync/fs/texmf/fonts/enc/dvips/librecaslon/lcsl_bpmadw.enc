@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_bpmadwru46kkaw2bsowzu35qfd
+% Encoding created by otftotfm on Tue Jun 25 07:34:07 2013
+% Command line follows encoding
+/AutoEnc_bpmadwru46kkaw2bsowzu35qfd [
+%00
+  /f_f /Euro.tnum /f_i /f_l /fraction /dotaccent /hungarumlaut /ogonek
+  /f_f_i /f_f_l /.notdef /f_b /f_h /f_j /f_k /f_t
+%10
+  /dotlessi /dotlessj /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedbl.tnum /numbersign.tnum /dollar.tnum /percent.tnum /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus.tnum /comma.tnum /hyphen /period.tnum /slash.tnum
+%30
+  /zero.tnum /one.tnum /two.tnum /three.tnum /four.tnum /five.tnum /six.tnum /seven.tnum
+  /eight.tnum /nine.tnum /colon.tnum /semicolon.tnum /less.tnum /equal.tnum /greater.tnum /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /circumflex /underscore.tnum
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /braceleft /bar.tnum /braceright /tilde /dieresis
+%80
+  /Lslash /quotesingle.tnum /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl
+  /circumflex /perthousand /Scaron /guilsinglleft /OE /Zcaron /asciicircum /minus.tnum
+%90
+  /lslash /quoteleft /quoteright /quotedblleft /quotedblright /bullet /endash /emdash
+  /tilde /trademark /scaron /guilsinglright /oe /zcaron /asciitilde /Ydieresis
+%A0
+  /uni00A0 /exclamdown /cent.tnum /sterling.tnum /currency /yen.tnum /brokenbar /section.tnum
+  /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /uni00AD /registered /macron
+%B0
+  /degree.tnum /plusminus.tnum /twosuperior /threesuperior /acute /mu /paragraph.tnum /periodcentered.tnum
+  /cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply.tnum
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls
+%E0
+  /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla
+  /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+%F0
+  /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide.tnum
+  /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ly1
+% --tfm-directory=texmf/fonts/tfm/impallari/librecaslon
+% --vf-directory=texmf/fonts/vf/impallari/librecaslon
+% --type1-directory=texmf/fonts/type1/impallari/librecaslon
+% --truetype-directory=texmf/fonts/truetype/impallari/librecaslon
+% --encoding-directory=texmf/fonts/enc/dvips/librecaslon
+% --map-file=texmf/fonts/map/dvips/librecaslon/LibreCaslonText.map
+% --no-updmap --coding-scheme=TEX TYPEWRITER AND WINDOWS ANSI --feature=kern
+% --feature=liga --feature=tnum LibreCaslonText-BoldItalic.otf
+% LibreCaslonText-BoldItalic-tlf-ly1'

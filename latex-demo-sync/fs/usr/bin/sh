@@ -1,0 +1,147 @@
+#!/usr/bin/env node
+'use strict';
+var fs = require('fs');
+var child_process = require('child_process');
+var path = require('path');
+var node_pipe2_1 = require('node-pipe2');
+function tokenize(statement, delim) {
+    'use strict';
+    return statement.split(delim);
+}
+function parse(tokens) {
+    'use strict';
+    var commands = [];
+    for (var i = 0; i < tokens.length; i++) {
+        var token = tokens[i];
+        if (!(/\S/.test(token))) {
+            throw new SyntaxError();
+        }
+        var command = token.match(/\S+/g);
+        commands.push(command);
+    }
+    return commands;
+}
+function parsetree_is_valid(parsetree) {
+    'use strict';
+    return true;
+}
+function remove_pid(pids, pid) {
+    'use strict';
+    var index = pids.indexOf(pid);
+    if (index > -1) {
+        pids.splice(index, 1);
+    }
+    return pids;
+}
+function execute_child(cmd, opts, pids, codes) {
+    'use strict';
+    var args = cmd.slice(1);
+    var child = child_process.spawn(cmd[0], args, opts);
+    pids.push(child.pid);
+    child.on('error', function (err) {
+        process.stderr.write('' + err + '\n', function () {
+            process.exit(1);
+        });
+    });
+    child.on('exit', function (code) {
+        codes.push(code);
+        pids = remove_pid(pids, child.pid);
+        if (pids.length === 0) {
+            exit_process(codes);
+        }
+    });
+    return child;
+}
+function exit_process(codes) {
+    'use strict';
+    var code = 0;
+    for (var i = 0; i < codes.length; i++) {
+        if (codes[i] !== 0) {
+            code = codes[i];
+        }
+    }
+    process.exit(code);
+}
+function main() {
+    'use strict';
+    var argv = process.argv;
+    var pathToNode = argv[0];
+    var pathToScript = argv[1];
+    var args = argv.slice(2);
+    if (args.length > 0 && args[0] === '-c')
+        args.shift();
+    if (args.length < 1) {
+        var usage = 'usage: ' + path.basename(pathToScript) + ' CMD [ARGS...]\n';
+        process.stderr.write(usage, function (err) {
+            process.exit(1);
+        });
+        return;
+    }
+    var statement = args[0];
+    var tokens = tokenize(statement, "|");
+    var parsetree = [];
+    try {
+        parsetree = parse(tokens);
+    }
+    catch (e) {
+        console.log(e);
+        if (e instanceof SyntaxError) {
+            process.stderr.write('SyntaxError: a pipe can only be between two commands.\n');
+            process.exit(1);
+        }
+    }
+    if (!parsetree_is_valid(parsetree)) {
+        process.exit(1);
+    }
+    var stderr = 2;
+    var pids = [];
+    var codes = [];
+    var pipes = [];
+    var pin = 0;
+    var bg = false;
+    function spawnChildren() {
+        for (var i = 0; i < parsetree.length - 1; i++) {
+            var cmd_1 = parsetree[i];
+            var pout = pipes[i][1];
+            var opts_1 = {
+                stdio: [pin, pout, stderr],
+            };
+            var child_1 = execute_child(cmd_1, opts_1, pids, codes);
+            fs.close(pipes[i][1]);
+            pin = pipes[i][0];
+        }
+        var cmd = parsetree[parsetree.length - 1];
+        var opts = {
+            stdio: [pin, 1, stderr],
+        };
+        if (cmd[cmd.length - 1] === '&') {
+            cmd = cmd.slice(0, cmd.length - 1);
+            bg = true;
+        }
+        var child = execute_child(cmd, opts, pids, codes);
+        for (var i = 0; i < pipes.length; i++) {
+            fs.close(pipes[i][0]);
+        }
+    }
+    var outstanding = parsetree.length - 1;
+    if (!outstanding) {
+        spawnChildren();
+        if (bg)
+            process.exit(0);
+        return;
+    }
+    for (var i = 0; i < parsetree.length - 1; i++) {
+        node_pipe2_1.pipe2(function (err, rfd, wfd) {
+            if (err)
+                throw new Error('Pipe failed!');
+            pipes.push([rfd, wfd]);
+            outstanding--;
+            if (!outstanding) {
+                spawnChildren();
+                if (bg)
+                    process.exit(0);
+            }
+        });
+    }
+}
+main();

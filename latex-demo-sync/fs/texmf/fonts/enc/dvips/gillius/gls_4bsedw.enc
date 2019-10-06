@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_4bsedw4bgchxlaetbnf4jhlq5b
+% Encoding created by otftotfm on Sun Nov  3 09:51:50 2013
+% Command line follows encoding
+/AutoEnc_4bsedw4bgchxlaetbnf4jhlq5b [
+%00
+  /grave /acute /circumflex /tilde /dieresis /hungarumlaut /ring /caron
+  /breve /macron /dotaccent /cedilla /ogonek /quotesinglbase /guilsinglleft /guilsinglright
+%10
+  /quotedblleft /quotedblright /quotedblbase /guillemotleft /guillemotright /endash /emdash /.notdef
+  /.notdef /dotlessi /.notdef /f_i /f_f_i /f_f /f_l /f_f_l
+%20
+  /.notdef /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero /one /two /three /four /five /six /seven
+  /eight /nine /colon /semicolon /less /equal /greater /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /braceleft /bar /braceright /asciitilde /hyphen
+%80
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /Lslash /.notdef /.notdef /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /Scaron /.notdef /.notdef /.notdef /.notdef /.notdef
+  /Ydieresis /.notdef /Zcaron /.notdef /.notdef /Idotaccent /.notdef /section
+%A0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /lslash /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /scaron /.notdef /.notdef /.notdef /.notdef /.notdef
+  /ydieresis /.notdef /zcaron /.notdef /.notdef /exclamdown /questiondown /sterling
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /OE
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /.notdef
+%E0
+  /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla
+  /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+%F0
+  /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /oe
+  /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /germandbls
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_t1
+% --tfm-directory=texmf.2cond/fonts/tfm/arkandis/gillius
+% --vf-directory=texmf.2cond/fonts/vf/arkandis/gillius
+% --type1-directory=texmf.2cond/fonts/type1/arkandis/gillius
+% --truetype-directory=texmf.2cond/fonts/truetype/arkandis/gillius
+% --encoding-directory=texmf.2cond/fonts/enc/dvips/gillius
+% --map-file=texmf.2cond/fonts/map/dvips/gillius/GilliusADFNoTwoCond.map
+% --no-updmap --coding-scheme=EXTENDED TEX FONT ENCODING - LATIN
+% --feature=kern --feature=liga GilliusADFNo2Cond-BoldItalic.otf
+% GilliusADFNo2Cond-BoldItalic-lf-t1'

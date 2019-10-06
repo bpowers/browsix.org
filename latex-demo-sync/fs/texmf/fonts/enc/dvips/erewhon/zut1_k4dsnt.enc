@@ -1,0 +1,66 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_k4dsnthslqz6645qvlpohufhrc
+% Encoding created by otftotfm on Thu May 26 17:44:30 2016
+% Command line follows encoding
+/AutoEnc_k4dsnthslqz6645qvlpohufhrc [
+%00
+  /S.sc /Euro /.notdef /.notdef /fraction /dotaccent /hungarumlaut /ogonek
+  /.notdef /.notdef /afii61664 /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /uni0237 /grave.sc /acute.sc /caron.sc /breve.sc /macron.sc /ring
+  /cedilla /.notdef /AE.sc /OE.sc /Oslash.sc /AE /OE /Oslash
+%20
+  /space /exclam.sc /quotedbl /numbersign.sc /dollar /percent.sc /ampersand.sc /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen.sc /period /slash
+%30
+  /zero /one /two /three /four /five /six /seven
+  /eight /nine /colon /semicolon /less /equal /greater /question.sc
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /circumflex.sc /underscore
+%60
+  /quoteleft /A.sc /B.sc /C.sc /D.sc /E.sc /F.sc /G.sc
+  /H.sc /I.sc /J.sc /K.sc /L.sc /M.sc /N.sc /O.sc
+%70
+  /P.sc /Q.sc /R.sc /S.sc /T.sc /U.sc /V.sc /W.sc
+  /X.sc /Y.sc /Z.sc /braceleft /bar /braceright /tilde /dieresis
+%80
+  /Lslash /quotesingle /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl
+  /circumflex.sc /perthousand /Scaron /guilsinglleft /OE /Zcaron /asciicircum /minus
+%90
+  /Lslash.sc /quoteleft /quoteright /quotedblleft /quotedblright /bullet /endash /emdash
+  /tilde /trademark /Scaron.sc /guilsinglright /OE.sc /Zcaron.sc /asciitilde /Ydieresis
+%A0
+  /uni00A0 /exclamdown.sc /cent /sterling /currency.sc /yen /brokenbar /section
+  /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /uni00AD /registered /macron.sc
+%B0
+  /degree /plusminus /two.superior /three.superior /acute.sc /uni00B5 /paragraph /periodcentered
+  /cedilla /one.superior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown.sc
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /.notdef
+%E0
+  /Agrave.sc /Aacute.sc /Acircumflex.sc /Atilde.sc /Adieresis.sc /Aring.sc /AE.sc /Ccedilla.sc
+  /Egrave.sc /Eacute.sc /Ecircumflex.sc /Edieresis.sc /Igrave.sc /Iacute.sc /Icircumflex.sc /Idieresis.sc
+%F0
+  /Eth.sc /Ntilde.sc /Ograve.sc /Oacute.sc /Ocircumflex.sc /Otilde.sc /Odieresis.sc /divide
+  /Oslash.sc /Ugrave.sc /Uacute.sc /Ucircumflex.sc /Udieresis.sc /Yacute.sc /Thorn.sc /Ydieresis.sc
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ly1
+% --tfm-directory=/Users/msharpe/Library/texlive/2016/texmf-config/fonts/tfm/public/erewhon
+% --vf-directory=/Users/msharpe/Library/texlive/2016/texmf-config/fonts/vf/public/erewhon
+% --type1-directory=/Users/msharpe/Library/texlive/2016/texmf-config/fonts/type1/public/erewhon
+% --truetype-directory=/Users/msharpe/Library/texlive/2016/texmf-config/fonts/truetype/public/erewhon
+% --encoding-directory=/Users/msharpe/Library/texlive/2016/texmf-config/fonts/enc/dvips/erewhon
+% --map-file=/Users/msharpe/Library/texlive/2016/texmf-config/fonts/map/dvips/erewhon/erewhon.map
+% --no-updmap --coding-scheme=TEX TYPEWRITER AND WINDOWS ANSI --feature=kern
+% --feature=liga --feature=lnum --feature=smcp --feature=tnum
+% --unicoding=germandbls =: SSsmall Erewhon-Regular.otf
+% Erewhon-Regular-tlf-sc-ly1'

@@ -1,0 +1,24 @@
+FontName (CMTypewriterCE-RegularSC)
+FullName (Computer Modern Typewriter Central European Regular Small Caps)
+AppleName (CM Typewriter CE RegularSC)
+FamilyName (CM Typewriter CE)
+version (001.001)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (FontSpecificEncoding)
+ItalicAngle 0
+CapHeight 612
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 70
+Serif true
+Pi true
+MSMenuName (CM Typewriter CE SC)
+VPMenuName (CM Typewriter CE SC)
+WORDMenuName (CMTypewriterCESC)
+VPStyle (N)
+PCFileNamePrefix (fctrcce)
+PCLStrokeWeight 0
+WindowsCharSet 238
+WindowsFirstChar 32
+WindowsLastChar 255

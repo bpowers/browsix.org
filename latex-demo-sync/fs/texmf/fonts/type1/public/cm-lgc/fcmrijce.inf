@@ -1,0 +1,24 @@
+FontName (CMRomanCE-ItalicOsF)
+FullName (Computer Modern Roman Central European Italic Old Style Figures)
+AppleName (CM Roman CE ItalicOsF)
+FamilyName (CM Roman CE)
+version (001.001)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (FontSpecificEncoding)
+ItalicAngle -14
+CapHeight 684
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 70
+Serif true
+Pi true
+MSMenuName (CM Roman CE SC)
+VPMenuName (CM Roman CE SC)
+WORDMenuName (CMRomanCESC)
+VPStyle (I)
+PCFileNamePrefix (fcmrijce)
+PCLStrokeWeight 0
+WindowsCharSet 238
+WindowsFirstChar 32
+WindowsLastChar 255

@@ -1,0 +1,66 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_wqntdrbqzhsvq3q554njnthlgc
+% Encoding created by otftotfm on Sun Jul  6 11:42:25 2014
+% Command line follows encoding
+/AutoEnc_wqntdrbqzhsvq3q554njnthlgc [
+%00
+  /f_f /Euro /uniFB01 /uniFB02 /fraction /dotaccent /hungarumlaut /ogonek
+  /uniFB03 /uniFB04 /uni200C /f_h /f_k /f_b /f_t /f_j
+%10
+  /dotlessi /uni0237 /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero.tablining /one.tablining /two.tablining /three.tablining /four.tablining /five.tablining /six.tablining /seven.tablining
+  /eight.tablining /nine.tablining /colon /semicolon /less /equal /greater /question
+%40
+  /at /A.sw /B.sw /C.sw /D.sw /E.sw /F.sw /G.sw
+  /H.sw /I.sw /J.sw /K.sw /L.sw /M.sw /N.sw /O.sw
+%50
+  /P.sw /Q.sw /R.sw /S.sw /T.sw /U.sw /V.sw /W.sw
+  /X.sw /Y.sw /Z.sw /bracketleft /backslash /bracketright /circumflex /underscore
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /braceleft /bar /braceright /tilde /dieresis
+%80
+  /Lslash /quotesingle /quotesinglbase /g_y /quotedblbase /ellipsis /dagger /daggerdbl
+  /circumflex /g_g /Scaron /guilsinglleft /OE /Zcaron /asciicircum /minus
+%90
+  /lslash /quoteleft /quoteright /quotedblleft /quotedblright /bullet /endash /emdash
+  /tilde /trademark /scaron /guilsinglright /oe /zcaron /asciitilde /Ydieresis
+%A0
+  /uni00A0 /exclamdown /cent /sterling /currency /yen /brokenbar /section
+  /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /uni00AD /registered /macron
+%B0
+  /degree /plusminus /uni00B2 /uni00B3 /acute /mu /paragraph /periodcentered
+  /cedilla /uni00B9 /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls
+%E0
+  /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla
+  /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+%F0
+  /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide
+  /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ly1
+% --tfm-directory=texmf/fonts/tfm/public/ebgaramond
+% --vf-directory=texmf/fonts/vf/public/ebgaramond
+% --type1-directory=texmf/fonts/type1/public/ebgaramond
+% --truetype-directory=texmf/fonts/truetype/public/ebgaramond
+% --encoding-directory=texmf/fonts/enc/dvips/ebgaramond
+% --map-file=texmf/fonts/map/dvips/ebgaramond/EBGaramond.map --no-updmap
+% --coding-scheme=TEX TYPEWRITER AND WINDOWS ANSI --feature=dlig
+% --feature=kern --feature=liga --feature=lnum --feature=swsh --feature=tnum
+% --include-alternates=*.swash --feature=aalt EBGaramond12-Italic.otf
+% EBGaramond12-Italic-tlf-swash-ly1'

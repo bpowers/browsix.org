@@ -1,0 +1,50 @@
+/zpl7TsupsEncoding [
+%00
+  /Gamma /Delta /Theta /Lambda /Xi /Pi /Sigma /Upsilon
+  /Phi /Psi /Omega /ff /fi /fl /ffi /ffl
+%10
+  /dotlessi /dotlessj /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam.superior /quotedbl.superior /numbersign.superior /dollar.superior /percent.superior /ampersand.superior /quoteright.superior
+  /parenleft.superior /parenright.superior /asterisk.superior /plus.superior /comma.superior /hyphen.superior /period.superior /slash.superior
+%30
+  /zero.superior /one.superior /two.superior /three.superior /four.superior /five.superior /six.superior /seven.superior
+  /eight.superior /nine.superior /colon.superior /semicolon /exclamdown.superior /equal.superior /questiondown.superior /question.superior
+%40
+  /at.superior /A.superior /B.superior /C.superior /D.superior /E.superior /F.superior /G.superior
+  /H.superior /I.superior /J.superior /K.superior /L.superior /M.superior /N.superior /O.superior
+%50
+  /P.superior /Q.superior /R.superior /S.superior /T.superior /U.superior /V.superior /W.superior
+  /X.superior /Y.superior /Z.superior /bracketleft.superior /quotedblleft /bracketright.superior /circumflex /dotaccent
+%60
+  /quoteleft.superior /a.superior /b.superior /c.superior /d.superior /e.superior /f.superior /g.superior
+  /h.superior /i.superior /j.superior /k.superior /l.superior /m.superior /n.superior /o.superior
+%70
+  /p.superior /q.superior /r.superior /s.superior /t.superior /u.superior /v.superior /w.superior
+  /x.superior /y.superior /z.superior /endash /emdash /hungarumlaut /tilde /dieresis
+%80
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%A0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def

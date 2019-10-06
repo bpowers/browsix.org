@@ -1,0 +1,24 @@
+FontName (CMSansCE-Regular)
+FullName (Computer Modern Sans Central European Regular)
+AppleName (CM Sans CE)
+FamilyName (CM Sans CE)
+version (001.001)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (FontSpecificEncoding)
+ItalicAngle 0
+CapHeight 695
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 78
+Serif false
+Pi true
+MSMenuName (CM Sans CE)
+VPMenuName (CM Sans CE)
+WORDMenuName (CMSansCE)
+VPStyle (N)
+PCFileNamePrefix (fcsrce)
+PCLStrokeWeight 0
+WindowsCharSet 238
+WindowsFirstChar 32
+WindowsLastChar 255

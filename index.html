@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Browsix: Unix in the browser tab</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Run multiple, communicating C, C++, Go and Node.js programs in-parallel in unmodified browsers including LaTeX, GNU Make, Go HTTP servers, and POSIX shell scripts.">
+    <meta name="author" content="Bobby Powers">
+    <link rel="canonical" href="https://browsix.org/">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+
+    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google verification -->
+    
+
+    <!-- Bing Verification -->
+    
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+    <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+  <body id="page-top" class="index">
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container">
+    <div class="navbar-header page-scroll">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+      </button>
+      <a class="navbar-brand" href="#page-top">Browsix</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="hidden">
+          <a href="#page-top"></a>
+        </li>
+        <li class="page-scroll">
+          <a href="#about">About</a>
+        </li>
+        <li class="page-scroll">
+          <a href="#examples">Examples</a>
+        </li>
+        <li class="page-scroll">
+          <a href="#how-it-works">How It Works</a>
+        </li>
+        <li class="page-scroll">
+          <a href="#paper">Paper</a>
+        </li>
+        <li>
+          <a href="https://github.com/plasma-umass/browsix">GitHub</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <header>
+  <div id="intro-header" class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="intro-text">
+          <span class="hook">Unix in your browser tab</span>
+          <hr class="star-light">
+          <span class="details">
+            Run C, C++, Go and Node.js programs as <b>processes</b>
+            in browsers, including LaTeX, GNU Make, Go HTTP servers,
+            and POSIX shell scripts.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+    <section id="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>About</h2>
+        <hr class="star-primary">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <p>
+          Programs written to run on conventional operating systems
+          typically depend on OS abstractions like processes, pipes,
+          signals, sockets, and a shared file system.  Compiling
+          programs into JavaScript, <a href="http://asmjs.org/">asm.js</a>, or
+          <a href="http://webassembly.org/">WebAssembly</a> with tools like
+          <a href="https://kripken.github.io/emscripten-site/">Emscripten</a>
+          or <a href="https://github.com/gopherjs/gopherjs">GopherJS</a>
+          isn't enough to successfully run many programs client-side,
+          as browsers present a non-traditional runtime environment
+          that lacks OS functionality.  Porting these applications to
+          the web currently requires extensive rewriting or paying to
+          host significant portions of code in the cloud.</p>
+
+        <p>
+          <b>Browsix</b> is our answer to these challenges, featuring:
+        </p>
+      </div>
+    </div>
+    <br>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <div class="row">
+          <div class="col-lg-4 text-center">
+            <i class="fa fa-sitemap fa-5x wow" aria-hidden="true"></i>
+            <h3>Processes</h3>
+            <p>
+              Unmodified C, C++, Go, and Node.js programs run as
+              processes on Web Workers, executing in-parallel with
+              the main browser thread &ndash; no need to worry about
+              long-running computations blocking event-handling or
+              page rendering.</p>
+          </div>
+          <div class="col-lg-4 text-center">
+            <i class="fa fa-cogs fa-5x wow" aria-hidden="true"></i>
+            <h3>Kernel + System Calls</h3>
+            <p>
+              By working at the lowest levels of abstraction, Browsix
+              provides shared resources to multiple language
+              runtimes, just as traditional operating systems enable
+              running programs written in a host of languages.</p>
+          </div>
+          <div class="col-lg-4 text-center">
+            <i class="fa fa-balance-scale fa-5x wow" aria-hidden="true"></i>
+            <h3>Scalability</h3>
+            <p>
+              By enabling a large class of programs (including legacy
+              codebases) to run in-browser, Browsix can free you from
+              the chore of sandboxing and load-balancing programs
+              server-side.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+    <section class="success" id="examples">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Examples</h2>
+        <hr class="star-light">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-lg-offset-2">
+        <h3>
+          <a href="https://unix.bpowers.net">Terminal</a>
+        </h3>
+        <p>
+          A Unix terminal exposing the dash POSIX shell lets
+          developers compose functionality and inspect Browsix state
+          in a familiar way. <a href="https://github.com/plasma-umass/browsix/tree/master/app/elements/browsix-terminal">(view source)</a></p>
+      </div>
+      <div class="col-lg-5 text-center">
+        <p>
+          <a href="https://unix.bpowers.net"><img src="img/terminal-1.png" class="ex-img"></a>
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-lg-offset-2">
+        <h3>
+          <a href="https://browsix.org/latex-demo-sync/">LaTeX Editor</a>
+        </h3>
+        <p>
+          In-browser editor that runs pdflatex and bibtex to
+          generate PDFs.  Required < 150 LoC to orchestrate these
+          applications. <a href="https://github.com/plasma-umass/browsix/tree/master/examples/latex-editor">(view source)</a></p>
+      </div>
+      <div class="col-lg-5 text-center">
+        <p>
+          <a href="https://browsix.org/latex-demo-sync/"><img src="img/latex-1.png" class="ex-img"></a>
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-lg-offset-2">
+        <h3>
+          <a href="https://meme.bpowers.net/">Meme Generator</a>
+        </h3>
+        <p>
+          Client/server web application written in JavaScript and Go.
+          The Go server blits text over images using off-the-shelf
+          libraries and runs unmodified under Browsix.  30 LoC policy
+          in client chooses to route requests to cloud or to
+          in-browser server process. <a href="https://github.com/plasma-umass/browsix/tree/master/examples/meme-service">(view source)</a></p>
+      </div>
+      <div class="col-lg-5 text-center">
+        <p>
+          <a href="https://meme.bpowers.net/"><img src="img/meme-1.png" class="ex-img"></a>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+    <section id="how-it-works">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>How It Works</h2>
+        <hr class="star-primary">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <p>
+          Browsix is a framework that bridges the considerable gap
+          between conventional operating systems and the browser,
+          enabling unmodified programs expecting a Unix-like
+          environment to run directly in the browser.  Browsix does
+          this by mapping low-level Unix primitives, like processes and
+          system calls, onto existing browser APIs, like
+          <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers">Web Workers</a>
+          and <a href="https://developer.mozilla.org/en-US/docs/Web/API/Worker/postMessage">postMessage</a>.</p>
+        </p>
+        <p>
+          Browsix brings all of these abstractions into unmodified browsers,
+          and is isolated and secured to the same extent any normal web
+          page is: at the level of the browser tab.</p>
+        <p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <center>
+          <object id="browsix-high-level" data="img/browsix-diagram.svg"></object>
+        </center>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <p>
+          To use Browsix, client-side JavaScript code creates an
+          instance of a Browsix kernel (which involves telling it how
+          to initialize the filesystem), and then asks the kernel to
+          start or kill processes.  Users can also perform HTTP
+          requests to a given Browsix TCP port, and register callbacks
+          a number of events, like when a process has written to
+          standard out or standard error, for when processes exit, and
+          for when ports are ready.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <h3>OS Abstractions</h3>
+        <ul>
+          <li><p><b>Processes</b> are built on top of Web Workers, letting
+            applications run in parallel and spawn
+            subprocesses. System calls include <code>fork</code>, <code>spawn</code>, <code>exec</code>, and
+            <code>wait</code>.</p></li>
+          <li><p><b>Signals</b> with <code>kill(2)</code> and signal handlers.</p></li>
+          <li><p><b>Shared Filesystem</b> accessible from multiple processes.</p></li>
+          <li><p><b>Pipes</b> are supported with <code>pipe(2)</code> enabling developers to compose processes into pipelines.</p></li>
+          <li><p><b>Sockets</b> include support for TCP socket servers and clients, making it possible to run applications like databases and HTTP servers together with their clients in the browser.</p></li>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <h3>Init</h3>
+        <p>
+          Thanks to a successful
+          <a href="https://summerofcode.withgoogle.com/archive/2016/projects/5164267334533120/">Summer of Code project</a>,
+          Browsix has an <a href="https://github.com/plasma-umass/systemgo">init system</a>
+          that supports managing and supervising in-browser services
+          specified by <a href="https://www.freedesktop.org/wiki/Software/systemd/">systemd</a>
+          <a href="https://coreos.com/docs/launching-containers/launching/getting-started-with-systemd/">unit files</a>.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+    <section class="success" id="paper">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Paper</h2>
+        <hr class="star-light">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <p>
+          Browsix is described in a peer-reviewed paper
+          from the
+          <a href="http://novel.ict.ac.cn/ASPLOS2017/">ASPLOS 2017</a>
+          conference.
+        </p>
+        <center>
+          <a href="https://dl.acm.org/citation.cfm?id=3037727"><img src="img/paper-1.png" width="200" alt="paper"></a>
+        </center>
+        <br>
+        <p>
+	  Check out the paper on the <a href="https://dl.acm.org/citation.cfm?id=3037727">ACM Digital Library</a>,
+	  or alternatively <a href="powers2017-browsix.pdf">here</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+    <section id="portfolio">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Download</h2>
+        <hr class="star-primary">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <p>
+          Browsix comprises two core parts:
+        </p>
+        <ol>
+          <li><p>A <a href="https://github.com/plasma-umass/browsix">kernel</a> written in TypeScript that makes core Unix
+            features (including pipes, concurrent processes, signals,
+            sockets, and a <a href="https://github.com/jvilk/BrowserFS">shared file system</a>) available to web
+            applications.</p></li>
+          <li><p>Extended JavaScript runtimes for <a href="https://github.com/bpowers/emscripten">C, C++</a>, <a href="https://github.com/bpowers/browsix-gopherjs">Go</a>, and
+            <a href="https://github.com/plasma-umass/browsix/tree/master/src/browser-node">Node.js</a> that support running programs written in these
+            languages as processes in the browser.</p></li>
+        </ol>
+        <p>
+          We will soon have more push-button instructions for
+          integrating Browsix into your project.  For now, check out
+          <a href="https://github.com/plasma-umass/browsix">GitHub</a> for more details.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+    <footer class="text-center">
+  <div class="footer-above">
+    <div class="container">
+      <div class="row">
+        <div class="footer-col col-md-8 col-md-offset-2">
+          <h3>Credits</h3>
+          <div class="row">
+            <div class="col-lg-3">
+              <center>
+                <a href="https://plasma.cs.umass.edu"><img src="img/plasma-globe.png" width="147" height="147" alt="PLASMA"></a>
+              </center>
+            </div>
+            <div class="col-lg-9 text-left">
+              <p>Browsix is a research project from the <a href="https://plasma.cs.umass.edu">PLASMA lab</a> at the University of Massachusetts, Amherst.</p>
+              <p>
+                Browsix is primarily the work of
+                <a href="https://bpowers.net">Bobby Powers</a>
+                and
+                <a href="https://jvilk.com/">John Vilk</a> with
+                guidance from their advisor,
+                <a href="https://emeryberger.com">Emery Berger</a>.
+                Browsix is open source, and a number of
+                <a href="https://github.com/plasma-umass/browsix/graphs/contributors">folks</a>
+                have made valuable contributions.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<div class="scroll-top page-scroll visible-xs visible-sm">
+  <a class="btn btn-primary" href="#page-top">
+    <i class="fa fa-chevron-up"></i>
+  </a>
+</div>
+
+    <script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/classie.js"></script>
+<script src="js/cbpAnimatedHeader.js"></script>
+<script src="js/freelancer.js"></script>
+
+
+
+  </body>
+</html>

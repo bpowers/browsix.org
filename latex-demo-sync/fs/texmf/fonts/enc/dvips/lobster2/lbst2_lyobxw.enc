@@ -1,0 +1,64 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_lyobxw4m5zfrdcuj7sis2qfuxc
+% Encoding created by otftotfm on Wed Jan  8 11:53:56 2014
+% Command line follows encoding
+/AutoEnc_lyobxw4m5zfrdcuj7sis2qfuxc [
+%00
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /ff /fi /fl /ffi /ffl
+%10
+  /dotlessi /.notdef /grave /acute /caron /breve /.notdef /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedblright /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero /one /two /three /four /five /six /seven
+  /eight /nine /colon /semicolon /exclamdown /equal /questiondown /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /quotedblleft /bracketright /circumflex /.notdef
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /endash /emdash /hungarumlaut /tilde /dieresis
+%80
+  /E_x /F_i /T_h /T_i /IJ /d.end /u.end /ij
+  /a_x /a_z /b_s /c_x /c_z /e_x /e_z /f_t
+%90
+  /f_u /f_x /g_p /g_x /g_z /i_x /i_z /j_x
+  /j_z /l_x /l_z /m_x /m_z /n_z /o_s /o_x
+%A0
+  /r_x /r_z /s_x /s_z /t_x /t_z /u_v /u_x
+  /y_p /y_x /y_z /f_f_t /f_i_x /f_i_z /f_l_x /f_l_z
+%B0
+  /b_s_x /b_s_z /o_ae /o_s_x /o_s_z /a.end /c.end /e.end
+  /g.end /h.end /i.end /j.end /k.end /l.end /m.end /n.end
+%C0
+  /o.end /s.end /t.end /x.end /y.end /fi.end /fl.end /a_x.end
+  /b_s.end /e_x.end /f_u.end /i_x.end /ij.end /o_s.end /u_x.end /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ot1
+% --tfm-directory=texmf/fonts/tfm/impallari/lobster2
+% --vf-directory=texmf/fonts/vf/impallari/lobster2
+% --type1-directory=texmf/fonts/type1/impallari/lobster2
+% --truetype-directory=texmf/fonts/truetype/impallari/lobster2
+% --encoding-directory=texmf/fonts/enc/dvips/lobster2
+% --map-file=texmf/fonts/map/dvips/lobster2/LobsterTwo.map --no-updmap
+% --coding-scheme=TEX TEXT --feature=kern --feature=liga
+% LobsterTwo-BoldItalic.otf LobsterTwo-BoldItalic-lf-ot1'

@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_qgwbgpyiwavjmi5hsptere2wnb
+% Encoding created by otftotfm on Sun Jul  6 11:42:25 2014
+% Command line follows encoding
+/AutoEnc_qgwbgpyiwavjmi5hsptere2wnb [
+%00
+  /Gamma /uni0394 /Theta /Lambda /Xi /Pi /Sigma /Upsilon
+  /Phi /Psi /uni03A9 /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /uni0237 /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedblright /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero.tablining /one.tablining /two.tablining /three.tablining /four.tablining /five.tablining /six.tablining /seven.tablining
+  /eight.tablining /nine.tablining /colon /semicolon /exclamdown /equal /questiondown /question
+%40
+  /at /A.sw /B.sw /C.sw /D.sw /E.sw /F.sw /G.sw
+  /H.sw /I.sw /J.sw /K.sw /L.sw /M.sw /N.sw /O.sw
+%50
+  /P.sw /Q.sw /R.sw /S.sw /T.sw /U.sw /V.sw /W.sw
+  /X.sw /Y.sw /Z.sw /bracketleft /quotedblleft /bracketright /circumflex /dotaccent
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /endash /emdash /hungarumlaut /tilde /dieresis
+%80
+  /f_f /uniFB01 /uniFB02 /uniFB03 /uniFB04 /f_h /f_k /f_b
+  /f_t /f_j /g_y /g_g /g_j /f_f_b /f_f_h /f_f_j
+%90
+  /f_f_k /f_f_t /Q_y /T_h /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%A0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ot1
+% --tfm-directory=texmf/fonts/tfm/public/ebgaramond
+% --vf-directory=texmf/fonts/vf/public/ebgaramond
+% --type1-directory=texmf/fonts/type1/public/ebgaramond
+% --truetype-directory=texmf/fonts/truetype/public/ebgaramond
+% --encoding-directory=texmf/fonts/enc/dvips/ebgaramond
+% --map-file=texmf/fonts/map/dvips/ebgaramond/EBGaramond.map --no-updmap
+% --coding-scheme=TEX TEXT --feature=dlig --feature=kern --feature=liga
+% --feature=lnum --feature=swsh --feature=tnum --include-alternates=*.swash
+% --feature=aalt EBGaramond12-Italic.otf EBGaramond12-Italic-tlf-swash-ot1'

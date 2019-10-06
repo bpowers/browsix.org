@@ -1,0 +1,268 @@
+% @psencodingfile{
+%   filename = "t5-miama.enc",
+%   license = "public domain",
+%   date = "2015/12/07",
+%   author = "Linus Romer",
+%   docstring = "This is the T5 encoding (vietnamese). Details are 
+%   described in
+%   ftp://ctan.tug.org/tex-archive/macros/latex/doc/encguide.pdf."
+% }
+%
+/T5Encoding [    % now 256 chars follow
+/grave
+/acute
+/circumflex
+/tilde
+/dieresis
+/dotbelowcomb
+/ring
+/caron
+/breve
+/macron
+/dotaccent
+/cedilla
+/hookabovecomb
+/quotesinglbase
+/guilsinglleft
+/guilsinglright
+/quotedblleft
+/quotedblright
+/quotedblbase
+/guillemotleft
+/guillemotright
+/endash
+/emdash
+/zerowidthspace
+/zeroinferior
+/dotlessi
+/uni1EF6
+/uni1EF7
+/uni1EF4
+/uni1EF5
+/Dcroat
+/dcroat
+/uni2423
+/exclam
+/quotedbl
+/numbersign
+/dollar
+/percent
+/ampersand
+/quoteright
+/parenleft
+/parenright
+/asterisk
+/plus
+/comma
+/hyphen
+/period
+/slash
+/zero
+/one
+/two
+/three
+/four
+/five
+/six
+/seven
+/eight
+/nine
+/colon
+/semicolon
+/less
+/equal
+/greater
+/question
+/at
+/A               % 0x41
+/B               % 0x42
+/C               % 0x43
+/D               % 0x44
+/E               % 0x45
+/F               % 0x46
+/G               % 0x47
+/H               % 0x48
+/I               % 0x49
+/J               % 0x4A
+/K               % 0x4B
+/L               % 0x4C
+/M               % 0x4D
+/N               % 0x4E
+/O               % 0x4F
+/P               % 0x50
+/Q               % 0x51
+/R               % 0x52
+/S               % 0x53
+/T               % 0x54
+/U               % 0x55
+/V               % 0x56
+/W               % 0x57
+/X               % 0x58
+/Y               % 0x59
+/Z               % 0x5A
+/bracketleft     % 0x5B
+/backslash       % 0x5C
+/bracketright    % 0x5D
+/asciicircum     % 0x5E
+/underscore      % 0x5F
+/quoteleft       % 0x60 U+2018
+/a               % 0x61
+/b               % 0x62
+/c               % 0x63
+/d               % 0x64
+/e               % 0x65
+/f               % 0x66
+/g               % 0x67
+/h               % 0x68
+/i               % 0x69
+/j               % 0x6A
+/k               % 0x6B
+/l               % 0x6C
+/m               % 0x6D
+/n               % 0x6E
+/o               % 0x6F
+/p               % 0x70
+/q               % 0x71
+/r               % 0x72
+/s               % 0x73
+/t               % 0x74
+/u               % 0x75
+/v               % 0x76
+/w               % 0x77
+/x               % 0x78
+/y               % 0x79
+/z               % 0x7A
+/braceleft       % 0x7B
+/bar             % 0x7C
+/braceright      % 0x7D
+/asciitilde      % 0x7E
+/hyphentwo       % 0x7F U+2010
+/Agrave
+/Aacute
+/Atilde
+/uni1EA2
+/uni1EA0
+/Acircumflex
+/uni1EA6
+/uni1EA4
+/uni1EAA
+/uni1EA8
+/uni1EAC
+/Abreve
+/uni1EB0
+/uni1EAE
+/uni1EB4
+/uni1EB2
+/uni1EB6
+/Egrave
+/Eacute
+/uni1EBC
+/uni1EBA
+/uni1EB8
+/Ecircumflex
+/uni1EC0
+/uni1EBE
+/uni1EC4
+/uni1EC2
+/uni1EC6
+/Igrave
+/Iacute
+/Itilde
+/uni1EC8
+/agrave
+/aacute
+/atilde
+/uni1EA3
+/uni1EA1
+/acircumflex
+/uni1EA7
+/uni1EA5
+/uni1EAB
+/uni1EA9
+/uni1EAD
+/abreve
+/uni1EB1
+/uni1EAF
+/uni1EB5
+/uni1EB3
+/uni1EB7
+/egrave
+/eacute
+/uni1EBD
+/uni1EBB
+/uni1EB9
+/ecircumflex
+/uni1EC1
+/uni1EBF
+/uni1EC5
+/uni1EC3
+/uni1EC7
+/igrave
+/iacute
+/itilde
+/uni1EC9
+/uni1ECA
+/Ograve
+/Oacute
+/Otilde
+/uni1ECE
+/uni1ECC
+/Ocircumflex
+/uni1ED2
+/uni1ED0
+/uni1ED6
+/uni1ED4
+/uni1ED8
+/Ohorn
+/uni1EDC
+/uni1EDA
+/uni1EE0
+/uni1EDE
+/uni1EE2
+/Ugrave
+/Uacute
+/Utilde
+/uni1EE6
+/uni1EE4
+/Uhorn
+/uni1EEA
+/uni1EE8
+/uni1EEE
+/uni1EEC
+/uni1EF0
+/Ygrave
+/Yacute
+/uni1EF8
+/uni1ECB
+/ograve
+/oacute
+/otilde
+/uni1ECF
+/uni1ECD
+/ocircumflex
+/uni1ED3
+/uni1ED1
+/uni1ED7
+/uni1ED5
+/uni1ED9
+/ohorn
+/uni1EDD
+/uni1EDB
+/uni1EE1
+/uni1EDF
+/uni1EE3
+/ugrave
+/uacute
+/utilde
+/uni1EE7
+/uni1EE5
+/uhorn
+/uni1EEB
+/uni1EE9
+/uni1EEF
+/uni1EED
+/uni1EF1
+/ygrave
+/yacute
+/uni1EF9
+] def

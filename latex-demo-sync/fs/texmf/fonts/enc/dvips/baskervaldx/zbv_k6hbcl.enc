@@ -1,0 +1,66 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_k6hbclrljuzqnly4lfzqassguh
+% Encoding created by otftotfm on Wed Nov 26 10:47:39 2014
+% Command line follows encoding
+/AutoEnc_k6hbclrljuzqnly4lfzqassguh [
+%00
+  /asciigrave /asciiacute /circumflex /tilde /asciidieresis /hungarumlaut /ring /caron
+  /breve /macron /dotaccent /cedilla /ogonek /quotesinglbase /guilsinglleft /guilsinglright
+%10
+  /quotedblleft /quotedblright /quotedblbase /guillemotleft /guillemotright /endash /emdash /.notdef
+  /f_j /dotlessi /dotlessj /fi /f_f_i /f_f /fl /f_f_l
+%20
+  /.notdef /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero.prop /one.prop /two.prop /three.prop /four.prop /five.prop /six.prop /seven.prop
+  /eight.prop /nine.prop /colon /semicolon /less /equal /greater /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /braceleft /bar /braceright /asciitilde /hyphen
+%80
+  /Abreve /Aogonek /Cacute /Ccaron /Dcaron /Ecaron /Eogonek /Gbreve
+  /Lacute /Lcaron /Lslash /Nacute /Ncaron /f_f_j /Ohungarumlaut /Racute
+%90
+  /Rcaron /Sacute /Scaron /Scedilla /Tcaron /Tcedilla /Uhungarumlaut /Uring
+  /Ydieresis /Zacute /Zcaron /Zdotaccent /.notdef /Idotaccent /dcroat /section
+%A0
+  /abreve /aogonek /cacute /ccaron /dcaron /ecaron /eogonek /gbreve
+  /lacute /lcaron /lslash /nacute /ncaron /c_t /ohungarumlaut /racute
+%B0
+  /rcaron /sacute /scaron /scedilla /tcaron /tcedilla /uhungarumlaut /uring
+  /ydieresis /zacute /zcaron /zdotaccent /.notdef /exclamdown /questiondown /sterling
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /OE
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /.notdef
+%E0
+  /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla
+  /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+%F0
+  /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /oe
+  /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /germandbls
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_t1
+% --tfm-directory=texmf/fonts/tfm/public/baskervaldx
+% --vf-directory=texmf/fonts/vf/public/baskervaldx
+% --type1-directory=texmf/fonts/type1/public/baskervaldx
+% --truetype-directory=texmf/fonts/truetype/public/baskervaldx
+% --encoding-directory=texmf/fonts/enc/dvips/baskervaldx
+% --map-file=texmf/fonts/map/dvips/baskervaldx/Baskervaldx.map --no-updmap
+% --coding-scheme=EXTENDED TEX FONT ENCODING - LATIN --feature=dlig
+% --feature=kern --feature=liga --feature=lnum --feature=pnum
+% --include-alternates=*.swash --feature=aalt Baskervaldx-Reg.otf
+% Baskervaldx-Reg-lf-swash-t1'

@@ -1,0 +1,258 @@
+/libusSCRenc[%
+/uni22B5 % 0
+/uni22B6 % 1
+/uni22B7 % 2
+/integral.sm % 3
+/uni222C.sm % 4
+/uni222D.sm % 5
+/uni222E.sm % 6
+/uni2A0C.sm % 7
+/integral.smsl % 8
+/uni222C.smsl % 9
+/uni222D.smsl % 10
+/uni222E.smsl % 11
+/dotmath % 12
+/uni2A0C.smsl % 13
+/uni22C8 % 14
+/uni22C9 % 15
+/uni22CA % 16
+/product.sm % 17
+/uni2A3F % 18, small coproduct
+/uni22CD % 19
+/uni22CE % 20
+/uni22CF % 21
+/summation.sm % 22
+/uni27C2 % 23 perp
+/uni210C % 24 gothic H
+/uni29F5 % 25 frak 228
+/uni29F6 % 26 frak 229
+/uni29F7 % 27 frak 290
+/uni22D6 % 28
+/uni22D7 % 29
+/uni22D8 % 30
+/uni22D9 % 31
+/uni22DA % 32
+/uni22DB % 33
+/uni22DC % 34
+/uni22DD % 35
+/uni22DE % 36
+/uni22DF % 37
+/uni22E0 % 38
+/uni22E1 % 39
+/uni22E2 % 40
+/uni22E3 % 41
+/uni22E4 % 42
+/uni22E5 % 43
+/uni22E6 % 44
+/uni22E7 % 45
+/uni22E8 % 46
+/uni22E9 % 47
+/uni22EA % 48
+/uni22EB % 49
+/uni22EC % 50
+/uni22ED % 51
+/uni22EE % 52
+/uni22EF % 53
+/uni22F0 % 54
+/uni22F1 % 55
+/uni2AB2 % 56
+/uni2AB3 % 57
+/uni2AB4 % 58
+/uni2AB5 % 59
+/uni2AB6 % 60
+/uni2AB1 % 61
+/.notdef % was /u1D718 % 62 varkappa
+/uni03DD.ital % 63 italic digamma
+/uni03F6.ital % 64 ital rev lunate eps
+/uni21AA.left % 65 hooks
+/uni21A9.right % 66
+/arrowleft % 67
+/arrowup % 68
+/arrowright % 69
+/arrowdown % 70
+/arrowboth % 71
+/arrowupdn % 72
+/uni2196 % 73 nw
+/uni2197 % 74 ne
+/uni2198 % 75 se
+/uni2199 % 76 sw
+/uni219A % 77 not left
+/uni219B % 78 not right
+/uni21A4 % 79 lf from bar
+/uni21A6 % 80 rt from bar
+/uni21A9 % 81 hook left
+/uni21AA % 82 hook right
+/uni21AE % 83 not both
+/uni21BC % 84 harpoons lf
+/uni21BD % 85
+/uni21C0 % 86 harpoons rt
+/uni21C1 % 87
+/uni21CB % 88 harpoons both
+/uni21CC % 89
+/uni27F5 % 90 long arrows
+/uni27F6 % 91
+/uni27F7 % 92
+/uni27FB % 93
+/uni27FC % 94
+/uni2300 % 95 diameter sign 
+/uni224F % 96
+/uni2250 % 97
+/uni2251 % 98
+/uni2252 % 99
+/uni2253 % 100
+/uni2254 % 101 coloneq
+/uni2255 % 102 eqcolon
+/uni2256 % 103
+/uni2257 % 104
+/uni2258 % 105
+/uni2259 % 106
+/uni225A % 107
+/uni225B % 108
+/uni225C % 109
+/uni225D % 110
+/uni225E % 111
+/uni225F % 112
+/notequal % 113
+/equivalence % 114
+/uni2262 % 115
+/uni23D0 % 116 arrow ext
+/uni21D1.x % 117 Arrow ext
+/uni2263 % 118
+/lessequal % 119
+/greaterequal % 120
+/uni2266 % 121
+/uni2267 % 122
+/Rfraktur % 123
+/Ifraktur % 124
+/weierstrass % 125
+/house % 126
+/uni2040 % 127
+/club % 128
+/diamond % 129
+/heart % 130
+/spade % 131
+/musicalnote % 132
+/degree % 133
+/section % 134
+/paragraph % 135
+/uni2714 % 136 heavy checkmark
+/uni23B4.md % 137 for 23B4, 5
+/uni23DC.md % 138 for 23DC. D
+/u1D4C1 % 139 ell
+/uni222F.sm % 140
+/uni222F.smsl % 141
+/.notdef % 142
+/.notdef % 143
+/.notdef % 144
+/.notdef % 145
+/.notdef % 146
+/.notdef % 147
+/.notdef % 148
+/.notdef % 149
+/.notdef % 150
+/.notdef % 151
+/.notdef % 152
+/.notdef % 153
+/.notdef % 154
+/revlogicalnot % 155
+/.notdef % 156
+/.notdef % 157
+/.notdef % 158
+/.notdef % 159
+/.notdef % 160
+/.notdef % 161
+/.notdef % 162
+/.notdef % 163
+/.notdef % 164
+/.notdef % 165
+/.notdef % 166
+/.notdef % 167
+/.notdef % 168
+/.notdef % 169
+/.notdef % 170
+/.notdef % 171
+/.notdef % 172
+/.notdef % 173
+/.notdef % 174
+/.notdef % 175
+/.notdef % 176
+/.notdef % 177
+/.notdef % 178
+/.notdef % 179
+/.notdef % 180
+/.notdef % 181
+/uni2423 % 182
+/filledbox % 183
+/H22073 % 184
+/.notdef % 185
+/.notdef % 186
+/.notdef % 187
+/.notdef % 188
+/.notdef % 189
+/.notdef % 190
+/.notdef % 191
+/.notdef % 192
+/.notdef % 193
+/.notdef % 194
+/.notdef % 195
+/.notdef % 196
+/.notdef % 197
+/.notdef % 198
+/.notdef % 199
+/.notdef % 200
+/triagup % 201
+/uni25B3 % 202
+/.notdef % 203
+/.notdef % 204
+/uni25B6 % 205
+/uni25B7 % 206
+/uni25B8 % 207
+/.notdef % 208
+/.notdef % 209
+/.notdef % 210
+/triagdn % 211
+/uni25BD % 212
+/.notdef % 213
+/.notdef % 214
+/uni25C0 % 215
+/uni22B2 % 216
+/uni27F8 % 217
+/uni27F9 % 218
+/uni27FA % 219
+/uni27FD % 220
+/uni25C6 % 221
+/uni25C7 % 222
+/uni27FE % 223
+/uni25C9 % 224
+/lozenge % 225
+/circle % 226
+/uni2190.x % 227
+/uni21D0.x % 228
+/uni25CE % 229
+/H18533 % 230
+/.notdef % 231
+/.notdef % 232
+/.notdef % 233
+/.notdef % 234
+/.notdef % 235
+/.notdef % 236
+/.notdef % 237
+/.notdef % 238
+/uni21CD % 239 not LeftA
+/uni21CE % 240 not RtA
+/uni21CF % 241
+/arrowdblleft % 242
+/arrowdblup % 243
+/arrowdblright % 244
+/arrowdbldown % 245
+/arrowdblboth % 246
+/uni21D5 % 247
+/uni21D6 % 248 NW
+/uni21D7 % 249 NE
+/uni21D8 % 250 SE
+/uni21D9 % 251 SW
+/uni2906 % 252 ltArrow from bar
+/openbullet % 253
+/uni22C4 % 254 diamond operator
+/uni2907 % 255 rtArrow from bar
+] def

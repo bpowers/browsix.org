@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_girsvql4cn35ieskeuba3al72h
+% Encoding created by otftotfm on Sat Nov  2 12:18:18 2013
+% Command line follows encoding
+/AutoEnc_girsvql4cn35ieskeuba3al72h [
+%00
+  /.notdef /uniE6CB /.notdef /.notdef /fraction /dotaccent /hungarumlaut /ogonek
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /uni0237 /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedbl /numbersign /uniE6C7 /percent /ampersand /quoteright
+  /uni207D /uni207E /asterisk /plus /uniE6C3 /uniE6C4 /uniE6C5 /slash
+%30
+  /uni2070 /uni00B9 /uni00B2 /uni00B3 /uni2074 /uni2075 /uni2076 /uni2077
+  /uni2078 /uni2079 /colon /semicolon /less /equal /greater /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /circumflex /underscore
+%60
+  /quoteleft /uniF6E9 /uniF6EA /c /uniF6EB /uniF6EC /uniF6F4 /uniF6F5
+  /uniF637 /uniF6ED /j /uniF6F6 /uniF6EE /uniF6EF /uni207F /uniF6F7
+%70
+  /uniF6F0 /q /uniF6F1 /uniF6F2 /uniF6F3 /u /v /w
+  /x /y /z /braceleft /bar /braceright /tilde /dieresis
+%80
+  /Lslash /quotesingle /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl
+  /circumflex /perthousand /Scaron /guilsinglleft /OE /Zcaron /asciicircum /minus
+%90
+  /lslash /quoteleft /quoteright /quotedblleft /quotedblright /bullet /endash /emdash
+  /tilde /trademark /scaron /guilsinglright /oe /zcaron /asciitilde /Ydieresis
+%A0
+  /uni00A0 /exclamdown /uniE6C8 /uniE6C9 /currency /uniE6CA /brokenbar /section
+  /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /uni00AD /registered /macron
+%B0
+  /degree /plusminus /uni00B2 /uni00B3 /acute /uni00B5 /paragraph /periodcentered
+  /cedilla /uni00B9 /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls
+%E0
+  /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla
+  /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+%F0
+  /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide
+  /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ly1
+% --tfm-directory=texmf/fonts/tfm/arkandis/mintspirit
+% --vf-directory=texmf/fonts/vf/arkandis/mintspirit
+% --type1-directory=texmf/fonts/type1/arkandis/mintspirit
+% --truetype-directory=texmf/fonts/truetype/arkandis/mintspirit
+% --encoding-directory=texmf/fonts/enc/dvips/mintspirit
+% --map-file=texmf/fonts/map/dvips/mintspirit/MintSpirit.map --no-updmap
+% --coding-scheme=TEX TYPEWRITER AND WINDOWS ANSI --feature=kern
+% --feature=liga --feature=sups --ligkern=* {KL} * MintSpirit-BoldItalic.otf
+% MintSpirit-BoldItalic-sup-ly1'

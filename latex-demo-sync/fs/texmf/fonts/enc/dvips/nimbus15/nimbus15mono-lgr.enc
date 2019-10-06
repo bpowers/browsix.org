@@ -1,0 +1,53 @@
+% nimbus15mono-lgr.enc
+% CODINGSCHEME GREEK FONT ENCODING - LGR
+
+/nimbusLGRenc [
+%00
+  /endash /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /Alpha /Upsilondieresis /alpha /upsilondieresis
+%10
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /Euro /perthousand /afii10846 /.notdef /quoteleft /quoteright /breve /macron
+%20
+  /.notdef /exclam /dieresis /dieresistonos /.notdef /percent /periodcentered /tonos
+  /parenleft /parenright /uni204E /plus /comma /hyphen /period /slash
+%30
+  /zero /one /two /three /four /five /six /seven
+  /eight /nine /colon /uni0387 /.notdef /equal /.notdef /semicolon
+%40
+  /.notdef /Alpha /Beta /.notdef /Delta /Epsilon /Phi /Gamma
+  /Eta /Iota /Theta /Kappa /Lambda /Mu /Nu /Omicron
+%50
+  /Pi /Chi /Rho /Sigma /Tau /Upsilon /.notdef /uni2126
+  /Xi /Psi /Zeta /bracketleft /.notdef /bracketright /.notdef /.notdef
+%60
+  /.notdef /alpha /beta /uni03C2 /delta /epsilon /phi1 /gamma
+  /eta /iota /theta1 /kappa /lambda /uni03BC /nu /omicron
+%70
+  /pi /chi /rho /sigma /tau /upsilon /.notdef /omega
+  /xi /psi /zeta /guillemotleft /.notdef /guillemotright /.notdef /emdash
+%80
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /alphatonos /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%A0
+  /etatonos /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /omegatonos /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /iotatonos /.notdef /.notdef /.notdef /upsilontonos /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /Iotadieresis /.notdef /.notdef /.notdef /Upsilondieresis
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /epsilontonos /.notdef /.notdef /.notdef /omicrontonos /.notdef /.notdef /.notdef
+%F0
+  /iotadieresis /.notdef /iotadieresistonos /.notdef /upsilondieresis /.notdef /upsilondieresistonos /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def
